@@ -119,7 +119,7 @@ A: 可以。您的一个快连账号支持同时登录最多5台设备（包括�
 
 ---
 
-**官网地址：** [https://www.kuailianak.com](https://www.kuailianak.com)
+**官网地址：** [https://www.kuailianfree.com](https://www.kuailianfree.com)
 
 
 
