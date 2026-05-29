@@ -5,20 +5,20 @@
 ## 最新文章
 
 
-- [快连加速器PC版2026使用指南：高速稳定教程 (附2026最新邀请码)](/docs/fast-link-accelerator-2026-for-pc-user-guide-high-speed-stability-tutorial-with-2026-latest-invitati)
+- [2026最新Kuailian VPN指南：安全高速上网全攻略 (附2026最新邀请码)](/docs/2026-latest-kuailian-vpn-guide-a-complete-guide-to-secure-and-high-speed-internet-with-2026-latest-i)
 
 
 ## 热门内容
 
 
-- [快连加速器PC版2026使用指南：高速稳定教程 (附2026最新邀请码)](/docs/fast-link-accelerator-2026-for-pc-user-guide-high-speed-stability-tutorial-with-2026-latest-invitati)
+- [2026最新Kuailian VPN指南：安全高速上网全攻略 (附2026最新邀请码)](/docs/2026-latest-kuailian-vpn-guide-a-complete-guide-to-secure-and-high-speed-internet-with-2026-latest-i)
 
 
 ## 文档导航
 
 ### 指南
 
-- [快连加速器PC版2026使用指南：高速稳定教程 (附2026最新邀请码)](/docs/fast-link-accelerator-2026-for-pc-user-guide-high-speed-stability-tutorial-with-2026-latest-invitati)
+- [2026最新Kuailian VPN指南：安全高速上网全攻略 (附2026最新邀请码)](/docs/2026-latest-kuailian-vpn-guide-a-complete-guide-to-secure-and-high-speed-internet-with-2026-latest-i)
 
 
 ### FAQ
