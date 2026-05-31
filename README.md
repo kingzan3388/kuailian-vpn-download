@@ -5,6 +5,8 @@
 ## 最新文章
 
 
+- [LetsVPN 2026 最新指南：安全上网的终极解决方案 [100%可用]](docs/letsvpn-2026-latest-guide-the-ultimate-solution-for-safe-surfing-100-available.md)
+
 - [2026快连VPN苹果下载教程：一键安装与高效使用指南 [2026官方版]](docs/2026-connected-vpn-apple-download-tutorial-one-click-installation-and-efficient-use-guide-2026-offic.md)
 
 - [快连VPN怎么样 2026最新实测：速度与安全性完整指南【限时免费】](docs/how-to-connect-to-a-vpn-2026-latest-test-a-complete-guide-to-speed-and-security-free-for-a-limited-t.md)
@@ -12,13 +14,13 @@
 - [快连加速器2026最新版：一键突破网络限制指南 | 稳定不掉线指南](docs/fast-link-accelerator-2026-latest-edition-a-one-click-guide-to-breaking-network-restrictions-stabili.md)
 
 - [快连VPN电脑版2026最新安装教程：1分钟极速解锁全球网络 (附2026最新邀请码)](docs/connect-to-vpn-for-desktop-2026-latest-installation-tutorial-unlock-the-worldwide-network-in-1-minut.md)
-
-- [快连VPN免费版2026：安全上网必备指南 | 稳定不掉线指南](docs/connected-vpn-free-2026-a-must-have-guide-to-safe-surfing-a-guide-to-staying-connected.md)
 
 
 ## 热门内容
 
 
+- [LetsVPN 2026 最新指南：安全上网的终极解决方案 [100%可用]](docs/letsvpn-2026-latest-guide-the-ultimate-solution-for-safe-surfing-100-available.md)
+
 - [2026快连VPN苹果下载教程：一键安装与高效使用指南 [2026官方版]](docs/2026-connected-vpn-apple-download-tutorial-one-click-installation-and-efficient-use-guide-2026-offic.md)
 
 - [快连VPN怎么样 2026最新实测：速度与安全性完整指南【限时免费】](docs/how-to-connect-to-a-vpn-2026-latest-test-a-complete-guide-to-speed-and-security-free-for-a-limited-t.md)
@@ -27,12 +29,12 @@
 
 - [快连VPN电脑版2026最新安装教程：1分钟极速解锁全球网络 (附2026最新邀请码)](docs/connect-to-vpn-for-desktop-2026-latest-installation-tutorial-unlock-the-worldwide-network-in-1-minut.md)
 
-- [快连VPN免费版2026：安全上网必备指南 | 稳定不掉线指南](docs/connected-vpn-free-2026-a-must-have-guide-to-safe-surfing-a-guide-to-staying-connected.md)
-
 
 ## 文档导航
 
 ### 指南
+
+- [LetsVPN 2026 最新指南：安全上网的终极解决方案 [100%可用]](docs/letsvpn-2026-latest-guide-the-ultimate-solution-for-safe-surfing-100-available.md)
 
 - [2026快连VPN苹果下载教程：一键安装与高效使用指南 [2026官方版]](docs/2026-connected-vpn-apple-download-tutorial-one-click-installation-and-efficient-use-guide-2026-offic.md)
 
