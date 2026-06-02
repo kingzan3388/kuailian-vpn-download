@@ -5,6 +5,8 @@
 ## 最新文章
 
 
+- [2026快连VPN优惠码：最新折扣与使用指南【限时免费】](docs/2026-connected-vpn-coupon-code-latest-discounts-and-usage-guide-free-for-a-limited-time.md)
+
 - [快连VPN官网入口2026最新指南：安全高速一键连接 (附2026最新邀请码)](docs/the-latest-guide-to-connecting-to-the-official-vpn-portal-2026-secure-high-speed-one-click-connectio.md)
 
 - [快连VPN电脑版2026最新指南：安全上网与高速连接教程 - 100%解决连接问题](docs/the-latest-guide-to-connected-vpn-desktop-2026-secure-internet-and-high-speed-connectivity-tutorial-.md)
@@ -12,13 +14,13 @@
 - [快连VPN官方下载2026：安全畅游全网指南 (附2026最新邀请码)](docs/connect-to-vpn-official-download-2026-a-complete-guide-to-safe-travels-with-the-latest-2026-invitati.md)
 
 - [快连加速器破解版2026最新教程：安全高速上网指南 | 稳定不掉线指南](docs/fast-track-accelerator-crack-2026-latest-tutorial-a-guide-to-safe-high-speed-internet-access-a-guide.md)
-
-- [快连VPN官网入口2026最新版：安全上网指南 [100%可用]](docs/quicklink-vpn-portal-2026-latest-version-safe-internet-guide-100-available.md)
 
 
 ## 热门内容
 
 
+- [2026快连VPN优惠码：最新折扣与使用指南【限时免费】](docs/2026-connected-vpn-coupon-code-latest-discounts-and-usage-guide-free-for-a-limited-time.md)
+
 - [快连VPN官网入口2026最新指南：安全高速一键连接 (附2026最新邀请码)](docs/the-latest-guide-to-connecting-to-the-official-vpn-portal-2026-secure-high-speed-one-click-connectio.md)
 
 - [快连VPN电脑版2026最新指南：安全上网与高速连接教程 - 100%解决连接问题](docs/the-latest-guide-to-connected-vpn-desktop-2026-secure-internet-and-high-speed-connectivity-tutorial-.md)
@@ -27,12 +29,12 @@
 
 - [快连加速器破解版2026最新教程：安全高速上网指南 | 稳定不掉线指南](docs/fast-track-accelerator-crack-2026-latest-tutorial-a-guide-to-safe-high-speed-internet-access-a-guide.md)
 
-- [快连VPN官网入口2026最新版：安全上网指南 [100%可用]](docs/quicklink-vpn-portal-2026-latest-version-safe-internet-guide-100-available.md)
-
 
 ## 文档导航
 
 ### 指南
+
+- [2026快连VPN优惠码：最新折扣与使用指南【限时免费】](docs/2026-connected-vpn-coupon-code-latest-discounts-and-usage-guide-free-for-a-limited-time.md)
 
 - [快连VPN官网入口2026最新指南：安全高速一键连接 (附2026最新邀请码)](docs/the-latest-guide-to-connecting-to-the-official-vpn-portal-2026-secure-high-speed-one-click-connectio.md)
 
