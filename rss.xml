@@ -1,9 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0">
   <channel>
-    <title>快连vpn官网</title>
+    <title>快连vpn</title>
     <link />
     <description>基于 GitHub Pages 快连VPN官方下载2026新版：安全上网指南 (2026最新下载地址) 文档</description>
+    <item>
+      <title>快连VPN免费版2026：安全上网最新指南 (附2026最新邀请码)</title>
+      <link>/docs/connected-vpn-free-2026-the-latest-guide-to-staying-safe-online-with-2026-latest-invitation-code.md</link>
+      <pubDate>2026-06-03 09:07:17</pubDate>
+    </item>
     <item>
       <title>快连VPN怎么样？2026年使用指南与实测体验 (2026最新下载地址)</title>
       <link>/docs/how-to-connect-to-a-vpn-2026-user-guide-and-experiences-2026-latest-download-address.md</link>
@@ -98,11 +103,6 @@
       <title>快连官网下载2026：最新安装教程与使用指南 (附2026最新邀请码)</title>
       <link>/docs/2026-latest-installation-tutorial-and-user-guide-with-2026-latest-invitation-code.md</link>
       <pubDate>2026-06-01 10:04:02</pubDate>
-    </item>
-    <item>
-      <title>快连VPN苹果下载2026最新版安装教程 - 100%解决连接问题</title>
-      <link>/docs/connected-vpn-2026-latest-installation-tutorial-100-troubleshooting-connection-issues.md</link>
-      <pubDate>2026-06-01 09:31:54</pubDate>
     </item>
   </channel>
 </rss>
