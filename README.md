@@ -5,6 +5,8 @@
 ## 最新文章
 
 
+- [快连VPN登录指南：2026年最新安全连接教程 [2026官方版]](docs/quick-connect-vpn-login-guide-the-latest-secure-connections-tutorial-2026-official-2026.md)
+
 - [letsvpn下载2026最新版：一键安装与使用指南 - 100%解决连接问题](docs/letsvpn-download-2026-latest-version-one-click-installation-and-user-guide-100-resolving-connection-.md)
 
 - [2026最新LetsVPN下载指南：安全高速访问全球网络 - 2026年最全使用教程](docs/2026-latest-letsvpn-download-guide-secure-high-speed-access-to-global-networks-the-most-complete-tut.md)
@@ -12,13 +14,13 @@
 - [快连官网2026最新版：安全下载与使用指南 (附2026最新邀请码)](docs/connect-to-the-latest-version-of-the-official-website-2026-safe-download-and-use-guide-with-2026-lat.md)
 
 - [快连VPN下载2026：一键解锁全球网络指南 [100%可用]](docs/connected-vpn-download-2026-a-one-click-guide-to-unlocking-the-worlds-web-100-available.md)
-
-- [快连VPN iOS下载2026指南：安全快速上手指南 - 100%解决连接问题](docs/connect-vpn-ios-download-2026-guide-a-safe-and-quick-start-guide-100-troubleshoot-connection-issues.md)
 
 
 ## 热门内容
 
 
+- [快连VPN登录指南：2026年最新安全连接教程 [2026官方版]](docs/quick-connect-vpn-login-guide-the-latest-secure-connections-tutorial-2026-official-2026.md)
+
 - [letsvpn下载2026最新版：一键安装与使用指南 - 100%解决连接问题](docs/letsvpn-download-2026-latest-version-one-click-installation-and-user-guide-100-resolving-connection-.md)
 
 - [2026最新LetsVPN下载指南：安全高速访问全球网络 - 2026年最全使用教程](docs/2026-latest-letsvpn-download-guide-secure-high-speed-access-to-global-networks-the-most-complete-tut.md)
@@ -27,12 +29,12 @@
 
 - [快连VPN下载2026：一键解锁全球网络指南 [100%可用]](docs/connected-vpn-download-2026-a-one-click-guide-to-unlocking-the-worlds-web-100-available.md)
 
-- [快连VPN iOS下载2026指南：安全快速上手指南 - 100%解决连接问题](docs/connect-vpn-ios-download-2026-guide-a-safe-and-quick-start-guide-100-troubleshoot-connection-issues.md)
-
 
 ## 文档导航
 
 ### 指南
+
+- [快连VPN登录指南：2026年最新安全连接教程 [2026官方版]](docs/quick-connect-vpn-login-guide-the-latest-secure-connections-tutorial-2026-official-2026.md)
 
 - [letsvpn下载2026最新版：一键安装与使用指南 - 100%解决连接问题](docs/letsvpn-download-2026-latest-version-one-click-installation-and-user-guide-100-resolving-connection-.md)
 
