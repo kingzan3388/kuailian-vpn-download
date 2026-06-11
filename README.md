@@ -5,6 +5,8 @@
 ## 最新文章
 
 
+- [快连官网下载2026：最新版安装教程与使用指南 (附2026最新邀请码)](docs/2026-the-latest-version-of-the-installation-tutorial-and-user-guide-with-the-latest-2026-invitation-.md)
+
 - [快连VPN免费版2026最新使用指南 - 2026年最全使用教程](docs/the-latest-guide-to-connecting-to-vpn-free-2026-the-most-complete-tutorial-in-2026.md)
 
 - [快连加速器PC版2026最新教程：稳定连接与高速体验指南 [100%可用]](docs/fast-connect-accelerator-for-pc-2026-latest-tutorial-steady-connection-and-high-speed-experience-gui.md)
@@ -12,13 +14,13 @@
 - [快连官网下载2026：最新版安全安装指南 (2026最新下载地址)](docs/quick-download-2026-the-latest-version-of-the-safe-installation-guide-2026-latest-download-address.md)
 
 - [快连VPN免费版2026年使用指南：安全上网必备技巧 | 稳定不掉线指南](docs/connecting-to-vpn-free-2026-user-guide-top-tips-for-safe-surfing-stability-guide.md)
-
-- [2026年最新LetsVPN破解版下载指南：免费解锁高速安全上网 [2026官方版]](docs/download-guide-for-the-latest-letsvpn-crack-in-2026-unlock-high-speed-secure-internet-access-for-fre.md)
 
 
 ## 热门内容
 
 
+- [快连官网下载2026：最新版安装教程与使用指南 (附2026最新邀请码)](docs/2026-the-latest-version-of-the-installation-tutorial-and-user-guide-with-the-latest-2026-invitation-.md)
+
 - [快连VPN免费版2026最新使用指南 - 2026年最全使用教程](docs/the-latest-guide-to-connecting-to-vpn-free-2026-the-most-complete-tutorial-in-2026.md)
 
 - [快连加速器PC版2026最新教程：稳定连接与高速体验指南 [100%可用]](docs/fast-connect-accelerator-for-pc-2026-latest-tutorial-steady-connection-and-high-speed-experience-gui.md)
@@ -27,12 +29,12 @@
 
 - [快连VPN免费版2026年使用指南：安全上网必备技巧 | 稳定不掉线指南](docs/connecting-to-vpn-free-2026-user-guide-top-tips-for-safe-surfing-stability-guide.md)
 
-- [2026年最新LetsVPN破解版下载指南：免费解锁高速安全上网 [2026官方版]](docs/download-guide-for-the-latest-letsvpn-crack-in-2026-unlock-high-speed-secure-internet-access-for-fre.md)
-
 
 ## 文档导航
 
 ### 指南
+
+- [快连官网下载2026：最新版安装教程与使用指南 (附2026最新邀请码)](docs/2026-the-latest-version-of-the-installation-tutorial-and-user-guide-with-the-latest-2026-invitation-.md)
 
 - [快连VPN免费版2026最新使用指南 - 2026年最全使用教程](docs/the-latest-guide-to-connecting-to-vpn-free-2026-the-most-complete-tutorial-in-2026.md)
 
