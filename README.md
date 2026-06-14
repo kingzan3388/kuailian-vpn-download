@@ -5,6 +5,8 @@
 ## 最新文章
 
 
+- [快连VPN破解版2026：免费高速翻墙指南 - 2026年最全使用教程](docs/connected-vpn-crack-2026-free-high-speed-wall-climbing-guide-the-most-complete-tutorial-in-2026.md)
+
 - [letsvpn 2026使用指南：最新安全设置教程 | 稳定不掉线指南](docs/letsvpn-2026-user-guide-the-latest-safety-setup-tutorials-stability-tips.md)
 
 - [快连VPN登录2026指南：3分钟解决最新连接问题 (2026最新下载地址)](docs/quick-connect-vpn-login-2026-guide-3-minutes-to-resolve-latest-connectivity-issues-2026-latest-downl.md)
@@ -12,13 +14,13 @@
 - [快连VPN电脑版2026最新版下载安装教程 - 2026年最全使用教程](docs/quick-connect-vpn-for-desktop-2026-latest-version-download-installation-tutorial-the-most-complete-t.md)
 
 - [快连VPN下载2026指南：安全上网必备工具 [100%可用]](docs/connected-vpn-download-2026-guide-essentials-for-safe-surfing-100-available.md)
-
-- [快连官网2026最新指南：安全高速访问教程 - 100%解决连接问题](docs/the-latest-guide-to-connectivity-2026-secure-high-speed-access-tutorial-100-troubleshooting-connecti.md)
 
 
 ## 热门内容
 
 
+- [快连VPN破解版2026：免费高速翻墙指南 - 2026年最全使用教程](docs/connected-vpn-crack-2026-free-high-speed-wall-climbing-guide-the-most-complete-tutorial-in-2026.md)
+
 - [letsvpn 2026使用指南：最新安全设置教程 | 稳定不掉线指南](docs/letsvpn-2026-user-guide-the-latest-safety-setup-tutorials-stability-tips.md)
 
 - [快连VPN登录2026指南：3分钟解决最新连接问题 (2026最新下载地址)](docs/quick-connect-vpn-login-2026-guide-3-minutes-to-resolve-latest-connectivity-issues-2026-latest-downl.md)
@@ -27,12 +29,12 @@
 
 - [快连VPN下载2026指南：安全上网必备工具 [100%可用]](docs/connected-vpn-download-2026-guide-essentials-for-safe-surfing-100-available.md)
 
-- [快连官网2026最新指南：安全高速访问教程 - 100%解决连接问题](docs/the-latest-guide-to-connectivity-2026-secure-high-speed-access-tutorial-100-troubleshooting-connecti.md)
-
 
 ## 文档导航
 
 ### 指南
+
+- [快连VPN破解版2026：免费高速翻墙指南 - 2026年最全使用教程](docs/connected-vpn-crack-2026-free-high-speed-wall-climbing-guide-the-most-complete-tutorial-in-2026.md)
 
 - [letsvpn 2026使用指南：最新安全设置教程 | 稳定不掉线指南](docs/letsvpn-2026-user-guide-the-latest-safety-setup-tutorials-stability-tips.md)
 
