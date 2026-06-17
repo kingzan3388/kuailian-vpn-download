@@ -5,6 +5,8 @@
 ## 最新文章
 
 
+- [Kuailian 2026新手教程：零基础入门与高效挖矿指南 | 稳定不掉线指南](docs/kuailian-2026-starter-tutorial-getting-started-with-zero-basics-and-high-efficiency-mining-guide-sta.md)
+
 - [2026快连VPN邀请码获取指南：免费试用与最新福利 (2026最新下载地址)](docs/2026-connect-vpn-invitation-code-getting-guide-free-trial-latest-benefits-2026-latest-download-addre.md)
 
 - [快连官网下载2026：最新版安装指南与安全使用教程 | 稳定不掉线指南](docs/download-2026-the-latest-version-of-the-installation-guide-and-safety-tutorial-stability-tutorial.md)
@@ -12,13 +14,13 @@
 - [2026年最新LetsVPN破解版使用指南：安全提速全教程 (2026最新下载地址)](docs/2026-latest-letsvpn-crack-usage-guide-full-tutorial-on-secure-speed-boost-2026-latest-download-addre.md)
 
 - [快连官网下载2026：最新版安装指南 (2026最新下载地址)](docs/quick-download-2026-the-latest-version-of-the-installation-guide-2026-latest-download-address.md)
-
-- [快连加速器官网2026最新版下载指南 (2026最新下载地址)](docs/quicklink-accelerator-2026-latest-version-download-guide-2026-latest-download-url.md)
 
 
 ## 热门内容
 
 
+- [Kuailian 2026新手教程：零基础入门与高效挖矿指南 | 稳定不掉线指南](docs/kuailian-2026-starter-tutorial-getting-started-with-zero-basics-and-high-efficiency-mining-guide-sta.md)
+
 - [2026快连VPN邀请码获取指南：免费试用与最新福利 (2026最新下载地址)](docs/2026-connect-vpn-invitation-code-getting-guide-free-trial-latest-benefits-2026-latest-download-addre.md)
 
 - [快连官网下载2026：最新版安装指南与安全使用教程 | 稳定不掉线指南](docs/download-2026-the-latest-version-of-the-installation-guide-and-safety-tutorial-stability-tutorial.md)
@@ -27,12 +29,12 @@
 
 - [快连官网下载2026：最新版安装指南 (2026最新下载地址)](docs/quick-download-2026-the-latest-version-of-the-installation-guide-2026-latest-download-address.md)
 
-- [快连加速器官网2026最新版下载指南 (2026最新下载地址)](docs/quicklink-accelerator-2026-latest-version-download-guide-2026-latest-download-url.md)
-
 
 ## 文档导航
 
 ### 指南
+
+- [Kuailian 2026新手教程：零基础入门与高效挖矿指南 | 稳定不掉线指南](docs/kuailian-2026-starter-tutorial-getting-started-with-zero-basics-and-high-efficiency-mining-guide-sta.md)
 
 - [2026快连VPN邀请码获取指南：免费试用与最新福利 (2026最新下载地址)](docs/2026-connect-vpn-invitation-code-getting-guide-free-trial-latest-benefits-2026-latest-download-addre.md)
 
