@@ -5,6 +5,8 @@
 ## 最新文章
 
 
+- [快连VPN免费版2026：一键畅享高速安全上网指南 - 100%解决连接问题](docs/connected-vpn-free-2026-a-one-click-guide-to-high-speed-secure-internet-100-resolve-connection-issue.md)
+
 - [2026快连使用指南：3分钟实现稳定高速连接 (附2026最新邀请码)](docs/2026-connection-user-guide-3-minutes-to-achieve-stable-high-speed-connection-with-2026-latest-invita.md)
 
 - [kuailian download 2026最新版下载指南 - 100%解决连接问题](docs/kuailian-download-2026-latest-version-download-guide-100-resolve-connection-issues.md)
@@ -12,13 +14,13 @@
 - [快连VPN安全吗？2026年隐私保护指南 - 100%解决连接问题](docs/is-connected-vpn-secure-2026-privacy-guide-100-resolve-connection-issues.md)
 
 - [letsvpn下载2026新版：安全上网完整指南 - 2026年最全使用教程](docs/letsvpn-download-the-new-2026-a-complete-guide-to-staying-safe-online-the-best-tutorials-to-use-in-2.md)
-
-- [快连VPN电脑版2026下载指南：安全畅游全球网络 (附2026最新邀请码)](docs/connect-to-vpn-for-desktop-2026-download-guide-safely-enjoy-the-worldwide-web-with-2026-latest-invit.md)
 
 
 ## 热门内容
 
 
+- [快连VPN免费版2026：一键畅享高速安全上网指南 - 100%解决连接问题](docs/connected-vpn-free-2026-a-one-click-guide-to-high-speed-secure-internet-100-resolve-connection-issue.md)
+
 - [2026快连使用指南：3分钟实现稳定高速连接 (附2026最新邀请码)](docs/2026-connection-user-guide-3-minutes-to-achieve-stable-high-speed-connection-with-2026-latest-invita.md)
 
 - [kuailian download 2026最新版下载指南 - 100%解决连接问题](docs/kuailian-download-2026-latest-version-download-guide-100-resolve-connection-issues.md)
@@ -27,12 +29,12 @@
 
 - [letsvpn下载2026新版：安全上网完整指南 - 2026年最全使用教程](docs/letsvpn-download-the-new-2026-a-complete-guide-to-staying-safe-online-the-best-tutorials-to-use-in-2.md)
 
-- [快连VPN电脑版2026下载指南：安全畅游全球网络 (附2026最新邀请码)](docs/connect-to-vpn-for-desktop-2026-download-guide-safely-enjoy-the-worldwide-web-with-2026-latest-invit.md)
-
 
 ## 文档导航
 
 ### 指南
+
+- [快连VPN免费版2026：一键畅享高速安全上网指南 - 100%解决连接问题](docs/connected-vpn-free-2026-a-one-click-guide-to-high-speed-secure-internet-100-resolve-connection-issue.md)
 
 - [2026快连使用指南：3分钟实现稳定高速连接 (附2026最新邀请码)](docs/2026-connection-user-guide-3-minutes-to-achieve-stable-high-speed-connection-with-2026-latest-invita.md)
 
