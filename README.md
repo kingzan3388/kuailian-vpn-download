@@ -5,6 +5,8 @@
 ## 最新文章
 
 
+- [2026快连加速器使用指南：稳定翻墙新体验 - 100%解决连接问题](docs/2026-fast-link-accelerator-user-guide-stable-climbing-new-experience-100-resolved-connection-issues.md)
+
 - [letsvpn破解版2026：免费获取永久高级会员教程 | 稳定不掉线指南](docs/letsvpn-cracking-edition-2026-get-free-lifetime-premium-membership-tutorial-stable-stability-tutoria.md)
 
 - [2026年LetsVPN电脑版最新安装教程与使用指南 (附2026最新邀请码)](docs/latest-2026-letsvpn-for-desktop-installation-tutorials-usage-guides-with-2026-latest-invitation-code.md)
@@ -12,13 +14,13 @@
 - [快连VPN怎么样2026最新评测：速度与安全实测指南 [100%可用]](docs/how-to-connect-to-a-vpn-2026-latest-review-speed-and-safety-100-available.md)
 
 - [快连VPN优惠码2026：最新折扣指南与省钱技巧【限时免费】](docs/connected-vpn-coupon-code-2026-latest-discount-guide-money-saving-tips-free-for-a-limited-time.md)
-
-- [快连VPN永久免费2026最新指南：零成本畅享安全上网 | 稳定不掉线指南](docs/connected-vpn-lifetime-free-2026-latest-guide-enjoy-safe-internet-access-at-zero-cost-stable-stay-on.md)
 
 
 ## 热门内容
 
 
+- [2026快连加速器使用指南：稳定翻墙新体验 - 100%解决连接问题](docs/2026-fast-link-accelerator-user-guide-stable-climbing-new-experience-100-resolved-connection-issues.md)
+
 - [letsvpn破解版2026：免费获取永久高级会员教程 | 稳定不掉线指南](docs/letsvpn-cracking-edition-2026-get-free-lifetime-premium-membership-tutorial-stable-stability-tutoria.md)
 
 - [2026年LetsVPN电脑版最新安装教程与使用指南 (附2026最新邀请码)](docs/latest-2026-letsvpn-for-desktop-installation-tutorials-usage-guides-with-2026-latest-invitation-code.md)
@@ -27,12 +29,12 @@
 
 - [快连VPN优惠码2026：最新折扣指南与省钱技巧【限时免费】](docs/connected-vpn-coupon-code-2026-latest-discount-guide-money-saving-tips-free-for-a-limited-time.md)
 
-- [快连VPN永久免费2026最新指南：零成本畅享安全上网 | 稳定不掉线指南](docs/connected-vpn-lifetime-free-2026-latest-guide-enjoy-safe-internet-access-at-zero-cost-stable-stay-on.md)
-
 
 ## 文档导航
 
 ### 指南
+
+- [2026快连加速器使用指南：稳定翻墙新体验 - 100%解决连接问题](docs/2026-fast-link-accelerator-user-guide-stable-climbing-new-experience-100-resolved-connection-issues.md)
 
 - [letsvpn破解版2026：免费获取永久高级会员教程 | 稳定不掉线指南](docs/letsvpn-cracking-edition-2026-get-free-lifetime-premium-membership-tutorial-stable-stability-tutoria.md)
 
