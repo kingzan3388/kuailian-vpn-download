@@ -5,6 +5,8 @@
 ## 最新文章
 
 
+- [LetsVPN 2026新手入门指南：安全上网必备技巧【限时免费】](docs/letsvpn-2026-getting-started-essential-tips-for-safe-surfing-free-for-a-limited-time.md)
+
 - [快连VPN安全吗2026：最新安全性与隐私保护指南【限时免费】](docs/is-connected-vpn-secure-2026-the-latest-guide-to-security-and-privacy-protection-free-for-a-limited-.md)
 
 - [快连VPN安卓下载2026指南：一键安装与安全连接 | 稳定不掉线指南](docs/connected-vpn-android-download-2026-guide-one-click-installation-and-secure-connection-stable-and-st.md)
@@ -12,13 +14,13 @@
 - [LetsVPN 2026最新指南：科学上网安全提速终极教程 - 100%解决连接问题](docs/letsvpn-2026-updated-guide-the-ultimate-tutorial-on-speeding-up-your-scientific-internet-security-10.md)
 
 - [快连VPN官网入口2026：最新高速稳定访问指南 (2026最新下载地址)](docs/quicklink-vpn-portal-2026-the-latest-high-speed-stable-access-guide-2026-latest-download-address.md)
-
-- [快连VPN免费版2026年使用指南：安全上网新选择 [100%可用]](docs/connected-vpn-free-2026-user-guide-new-safe-internet-options-100-available.md)
 
 
 ## 热门内容
 
 
+- [LetsVPN 2026新手入门指南：安全上网必备技巧【限时免费】](docs/letsvpn-2026-getting-started-essential-tips-for-safe-surfing-free-for-a-limited-time.md)
+
 - [快连VPN安全吗2026：最新安全性与隐私保护指南【限时免费】](docs/is-connected-vpn-secure-2026-the-latest-guide-to-security-and-privacy-protection-free-for-a-limited-.md)
 
 - [快连VPN安卓下载2026指南：一键安装与安全连接 | 稳定不掉线指南](docs/connected-vpn-android-download-2026-guide-one-click-installation-and-secure-connection-stable-and-st.md)
@@ -26,8 +28,6 @@
 - [LetsVPN 2026最新指南：科学上网安全提速终极教程 - 100%解决连接问题](docs/letsvpn-2026-updated-guide-the-ultimate-tutorial-on-speeding-up-your-scientific-internet-security-10.md)
 
 - [快连VPN官网入口2026：最新高速稳定访问指南 (2026最新下载地址)](docs/quicklink-vpn-portal-2026-the-latest-high-speed-stable-access-guide-2026-latest-download-address.md)
-
-- [快连VPN免费版2026年使用指南：安全上网新选择 [100%可用]](docs/connected-vpn-free-2026-user-guide-new-safe-internet-options-100-available.md)
 
 
 ## 文档导航
