@@ -5,6 +5,8 @@
 ## 最新文章
 
 
+- [快连VPN 2026使用指南：新手必看教程【限时免费】](docs/connected-vpn-2026-user-guide-a-must-see-tutorial-for-beginners-free-for-a-limited-time.md)
+
 - [快连VPN安卓下载2026：一键安全上网指南 - 100%解决连接问题](docs/connected-vpn-2026-a-one-click-guide-to-secure-internet-access-100-resolve-connection-issues.md)
 
 - [kuailian download 2026 最新版下载指南 - 2026年最全使用教程](docs/kuailian-download-2026-latest-version-download-guide-most-used-tutorial-in-2026.md)
@@ -12,13 +14,13 @@
 - [kuailian download 2026 最新版下载与使用指南 | 稳定不掉线指南](docs/download-and-usage-guide-for-the-latest-version-of-kuailian-download-2026-stability-guide.md)
 
 - [Kuailian VPN 2026最新教程：安全上网与解锁指南 | 稳定不掉线指南](docs/kuailian-vpn-2026-latest-tutorial-safe-surfing-and-unlocking-guide-stability-tips.md)
-
-- [快连VPN优惠码2026：最新省钱指南 | 稳定不掉线指南](docs/connect-to-vpn-coupon-code-2026-the-latest-money-saving-guide-stable-and-stable-guide.md)
 
 
 ## 热门内容
 
 
+- [快连VPN 2026使用指南：新手必看教程【限时免费】](docs/connected-vpn-2026-user-guide-a-must-see-tutorial-for-beginners-free-for-a-limited-time.md)
+
 - [快连VPN安卓下载2026：一键安全上网指南 - 100%解决连接问题](docs/connected-vpn-2026-a-one-click-guide-to-secure-internet-access-100-resolve-connection-issues.md)
 
 - [kuailian download 2026 最新版下载指南 - 2026年最全使用教程](docs/kuailian-download-2026-latest-version-download-guide-most-used-tutorial-in-2026.md)
@@ -27,12 +29,12 @@
 
 - [Kuailian VPN 2026最新教程：安全上网与解锁指南 | 稳定不掉线指南](docs/kuailian-vpn-2026-latest-tutorial-safe-surfing-and-unlocking-guide-stability-tips.md)
 
-- [快连VPN优惠码2026：最新省钱指南 | 稳定不掉线指南](docs/connect-to-vpn-coupon-code-2026-the-latest-money-saving-guide-stable-and-stable-guide.md)
-
 
 ## 文档导航
 
 ### 指南
+
+- [快连VPN 2026使用指南：新手必看教程【限时免费】](docs/connected-vpn-2026-user-guide-a-must-see-tutorial-for-beginners-free-for-a-limited-time.md)
 
 - [快连VPN安卓下载2026：一键安全上网指南 - 100%解决连接问题](docs/connected-vpn-2026-a-one-click-guide-to-secure-internet-access-100-resolve-connection-issues.md)
 
