@@ -5,6 +5,8 @@
 ## 最新文章
 
 
+- [快连VPN 2026实战指南：新手3分钟学会使用教程【限时免费】](docs/connected-vpn-2026-practical-guide-3-minute-tutorial-for-beginners-free-for-a-limited-time.md)
+
 - [快连加速器PC版2026使用指南 - 100%解决连接问题](docs/quick-connect-accelerator-2026-for-pc-user-guide-100-resolve-connectivity-issues.md)
 
 - [LetsVPN官方下载2026最新版：安全极速上网指南 [2026官方版]](docs/letsvpn-official-download-2026-latest-version-a-guide-to-safe-and-fast-internet-2026-official.md)
@@ -12,13 +14,13 @@
 - [快连VPN怎么用 2026最新教程：一键解锁全球网络【限时免费】](docs/how-to-use-a-connected-vpn-2026-latest-tutorial-unlocking-the-worlds-network-in-one-click-free-for-a.md)
 
 - [快连加速器安卓2026最新版下载：高速稳定连接指南 - 100%解决连接问题](docs/fastlink-accelerator-android-2026-latest-version-download-high-speed-stable-connection-guide-100-res.md)
-
-- [kuailian vpn 2026 最新版：安全上网完整指南 | 稳定不掉线指南](docs/kuailian-vpn-2026-latest-version-a-complete-guide-to-staying-safe-online-the-guide-to-staying-connec.md)
 
 
 ## 热门内容
 
 
+- [快连VPN 2026实战指南：新手3分钟学会使用教程【限时免费】](docs/connected-vpn-2026-practical-guide-3-minute-tutorial-for-beginners-free-for-a-limited-time.md)
+
 - [快连加速器PC版2026使用指南 - 100%解决连接问题](docs/quick-connect-accelerator-2026-for-pc-user-guide-100-resolve-connectivity-issues.md)
 
 - [LetsVPN官方下载2026最新版：安全极速上网指南 [2026官方版]](docs/letsvpn-official-download-2026-latest-version-a-guide-to-safe-and-fast-internet-2026-official.md)
@@ -27,12 +29,12 @@
 
 - [快连加速器安卓2026最新版下载：高速稳定连接指南 - 100%解决连接问题](docs/fastlink-accelerator-android-2026-latest-version-download-high-speed-stable-connection-guide-100-res.md)
 
-- [kuailian vpn 2026 最新版：安全上网完整指南 | 稳定不掉线指南](docs/kuailian-vpn-2026-latest-version-a-complete-guide-to-staying-safe-online-the-guide-to-staying-connec.md)
-
 
 ## 文档导航
 
 ### 指南
+
+- [快连VPN 2026实战指南：新手3分钟学会使用教程【限时免费】](docs/connected-vpn-2026-practical-guide-3-minute-tutorial-for-beginners-free-for-a-limited-time.md)
 
 - [快连加速器PC版2026使用指南 - 100%解决连接问题](docs/quick-connect-accelerator-2026-for-pc-user-guide-100-resolve-connectivity-issues.md)
 
