@@ -5,6 +5,8 @@
 ## 最新文章
 
 
+- [Kuailian Download 2026指南：一键获取最新版 [2026官方版]](docs/kuailian-download-2026-guide-get-the-latest-version-with-one-click-official-2026.md)
+
 - [快连VPN安卓下载2026新版安装教程 | 稳定不掉线指南](docs/connected-vpn-android-download-2026-new-version-installation-tutorial-stable-and-stable-guide.md)
 
 - [2026快连VPN苹果下载指南：安全上网一步到位 [2026官方版]](docs/2026-connected-vpn-apple-download-guide-one-step-to-safe-surfing-2026-official-version.md)
@@ -12,13 +14,13 @@
 - [快连VPN 2026最新指南：安全上网必备神器 (2026最新下载地址)](docs/the-latest-guide-to-connecting-to-vpn-2026-a-must-have-tool-for-safe-surfing-2026-latest-download-ad.md)
 
 - [kuailian download 2026 最新版下载安装教程 [2026官方版]](docs/kuailian-download-2026-latest-version-download-installation-tutorial-2026-official-version.md)
-
-- [2026快连VPN优惠码：最新折扣与使用指南 [100%可用]](docs/2026-connected-vpn-coupon-code-latest-discounts-how-to-guides-100-available.md)
 
 
 ## 热门内容
 
 
+- [Kuailian Download 2026指南：一键获取最新版 [2026官方版]](docs/kuailian-download-2026-guide-get-the-latest-version-with-one-click-official-2026.md)
+
 - [快连VPN安卓下载2026新版安装教程 | 稳定不掉线指南](docs/connected-vpn-android-download-2026-new-version-installation-tutorial-stable-and-stable-guide.md)
 
 - [2026快连VPN苹果下载指南：安全上网一步到位 [2026官方版]](docs/2026-connected-vpn-apple-download-guide-one-step-to-safe-surfing-2026-official-version.md)
@@ -27,12 +29,12 @@
 
 - [kuailian download 2026 最新版下载安装教程 [2026官方版]](docs/kuailian-download-2026-latest-version-download-installation-tutorial-2026-official-version.md)
 
-- [2026快连VPN优惠码：最新折扣与使用指南 [100%可用]](docs/2026-connected-vpn-coupon-code-latest-discounts-how-to-guides-100-available.md)
-
 
 ## 文档导航
 
 ### 指南
+
+- [Kuailian Download 2026指南：一键获取最新版 [2026官方版]](docs/kuailian-download-2026-guide-get-the-latest-version-with-one-click-official-2026.md)
 
 - [快连VPN安卓下载2026新版安装教程 | 稳定不掉线指南](docs/connected-vpn-android-download-2026-new-version-installation-tutorial-stable-and-stable-guide.md)
 
@@ -583,6 +585,8 @@
 
 
 ### 下载
+
+- [Kuailian Download 2026指南：一键获取最新版 [2026官方版]](docs/kuailian-download-2026-guide-get-the-latest-version-with-one-click-official-2026.md)
 
 - [快连VPN安卓下载2026新版安装教程 | 稳定不掉线指南](docs/connected-vpn-android-download-2026-new-version-installation-tutorial-stable-and-stable-guide.md)
 
