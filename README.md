@@ -5,6 +5,8 @@
 ## 最新文章
 
 
+- [快连官网2026最新使用指南：安全上网全教程【限时免费】](docs/quick-link-official-website-2026-latest-user-guide-safe-internet-full-tutorial-free-for-a-limited-ti.md)
+
 - [快连VPN登录2026指南：3分钟解决连接与账号问题 | 稳定不掉线指南](docs/connected-vpn-login-2026-guide-3-minutes-to-resolve-connection-and-account-issues-stability-guidelin.md)
 
 - [快连VPN官网入口2026最新指南：安全稳定一键连接 (附2026最新邀请码)](docs/the-latest-guide-to-connecting-to-the-official-vpn-portal-2026-secure-and-stable-one-click-connectio.md)
@@ -12,13 +14,13 @@
 - [快连VPN iOS下载2026指南：安全畅游网络新体验 (2026最新下载地址)](docs/connect-vpn-ios-download-2026-guide-a-new-experience-for-safe-swimming-2026-latest-download-address.md)
 
 - [快连VPN安全吗？2026年安全使用指南与风险评测 (2026最新下载地址)](docs/is-connected-vpn-secure-2026-security-usage-guide-risk-assessment-2026-latest-download-address.md)
-
-- [letsvpn官方下载2026：一键获取最新版安全指南 | 稳定不掉线指南](docs/letsvpn-official-download-2026-get-the-latest-version-of-the-safety-guide-in-one-click-stable-and-st.md)
 
 
 ## 热门内容
 
 
+- [快连官网2026最新使用指南：安全上网全教程【限时免费】](docs/quick-link-official-website-2026-latest-user-guide-safe-internet-full-tutorial-free-for-a-limited-ti.md)
+
 - [快连VPN登录2026指南：3分钟解决连接与账号问题 | 稳定不掉线指南](docs/connected-vpn-login-2026-guide-3-minutes-to-resolve-connection-and-account-issues-stability-guidelin.md)
 
 - [快连VPN官网入口2026最新指南：安全稳定一键连接 (附2026最新邀请码)](docs/the-latest-guide-to-connecting-to-the-official-vpn-portal-2026-secure-and-stable-one-click-connectio.md)
@@ -27,12 +29,12 @@
 
 - [快连VPN安全吗？2026年安全使用指南与风险评测 (2026最新下载地址)](docs/is-connected-vpn-secure-2026-security-usage-guide-risk-assessment-2026-latest-download-address.md)
 
-- [letsvpn官方下载2026：一键获取最新版安全指南 | 稳定不掉线指南](docs/letsvpn-official-download-2026-get-the-latest-version-of-the-safety-guide-in-one-click-stable-and-st.md)
-
 
 ## 文档导航
 
 ### 指南
+
+- [快连官网2026最新使用指南：安全上网全教程【限时免费】](docs/quick-link-official-website-2026-latest-user-guide-safe-internet-full-tutorial-free-for-a-limited-ti.md)
 
 - [快连VPN登录2026指南：3分钟解决连接与账号问题 | 稳定不掉线指南](docs/connected-vpn-login-2026-guide-3-minutes-to-resolve-connection-and-account-issues-stability-guidelin.md)
 
