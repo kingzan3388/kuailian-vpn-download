@@ -5,6 +5,8 @@
 ## 最新文章
 
 
+- [快连VPN 2026最新版：稳定翻墙与隐私保护指南 | 稳定不掉线指南](docs/connected-vpn-2026-latest-version-stability-and-privacy-guidelines-stability-and-stability-guideline.md)
+
 - [快连加速器下载2026：极速翻墙新手指南 (2026最新下载地址)](docs/quicklink-accelerator-download-2026-a-beginners-guide-to-fast-wall-climbing-latest-2026-download-url.md)
 
 - [快连官网2026最新访问指南：稳定快速一键连接 - 100%解决连接问题](docs/quicklink-2026-latest-access-guide-stable-quick-one-click-connection-100-resolve-connection-issues.md)
@@ -12,13 +14,13 @@
 - [快连vpn破解版2026：免费高速上网教程 [100%可用]](docs/connect-to-vpn-crack-2026-free-high-speed-internet-tutorial-100-available.md)
 
 - [快连VPN怎么用？2026新手极简设置指南 (2026最新下载地址)](docs/how-to-use-a-connected-vpn-2026-starter-minimalist-setup-guide-2026-latest-download-address.md)
-
-- [快连VPN 2026最新邀请码获取指南 - 100%解决连接问题](docs/guide-to-getting-the-latest-invitation-codes-for-connected-vpn-2026-100-resolve-connection-issues.md)
 
 
 ## 热门内容
 
 
+- [快连VPN 2026最新版：稳定翻墙与隐私保护指南 | 稳定不掉线指南](docs/connected-vpn-2026-latest-version-stability-and-privacy-guidelines-stability-and-stability-guideline.md)
+
 - [快连加速器下载2026：极速翻墙新手指南 (2026最新下载地址)](docs/quicklink-accelerator-download-2026-a-beginners-guide-to-fast-wall-climbing-latest-2026-download-url.md)
 
 - [快连官网2026最新访问指南：稳定快速一键连接 - 100%解决连接问题](docs/quicklink-2026-latest-access-guide-stable-quick-one-click-connection-100-resolve-connection-issues.md)
@@ -27,12 +29,12 @@
 
 - [快连VPN怎么用？2026新手极简设置指南 (2026最新下载地址)](docs/how-to-use-a-connected-vpn-2026-starter-minimalist-setup-guide-2026-latest-download-address.md)
 
-- [快连VPN 2026最新邀请码获取指南 - 100%解决连接问题](docs/guide-to-getting-the-latest-invitation-codes-for-connected-vpn-2026-100-resolve-connection-issues.md)
-
 
 ## 文档导航
 
 ### 指南
+
+- [快连VPN 2026最新版：稳定翻墙与隐私保护指南 | 稳定不掉线指南](docs/connected-vpn-2026-latest-version-stability-and-privacy-guidelines-stability-and-stability-guideline.md)
 
 - [快连加速器下载2026：极速翻墙新手指南 (2026最新下载地址)](docs/quicklink-accelerator-download-2026-a-beginners-guide-to-fast-wall-climbing-latest-2026-download-url.md)
 
