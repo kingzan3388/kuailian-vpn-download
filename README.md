@@ -5,6 +5,8 @@
 ## 最新文章
 
 
+- [2026 LetsVPN翻墙指南：安全上网新选择 - 2026年最全使用教程](docs/the-2026-letsvpn-climbing-guide-a-new-choice-for-safe-surfing-the-most-complete-2026-tutorial.md)
+
 - [快连VPN下载2026新版：3分钟极速安装指南 (2026最新下载地址)](docs/connect-to-vpn-to-download-2026-new-version-3-minute-fast-installation-guide-2026-latest-download-ad.md)
 
 - [快连VPN永久免费2026使用指南：安全上网必备 - 100%解决连接问题](docs/connected-vpn-lifetime-free-2026-usage-guide-safe-internet-essentials-100-resolve-connection-issues.md)
@@ -12,13 +14,13 @@
 - [Kuailian 2026新手入门指南：5分钟快速掌握核心玩法 (附2026最新邀请码)](docs/kuailian-2026-getting-started-guide-5-minutes-to-quickly-master-the-core-gameplay-with-2026-latest-i.md)
 
 - [letsvpn官方下载2026最新版：安全上网指南 - 2026年最全使用教程](docs/letsvpn-official-download-the-latest-version-of-2026-a-guide-to-safe-internet-access-the-most-compre.md)
-
-- [快连VPN 2026最新版：稳定翻墙与隐私保护指南 | 稳定不掉线指南](docs/connected-vpn-2026-latest-version-stability-and-privacy-guidelines-stability-and-stability-guideline.md)
 
 
 ## 热门内容
 
 
+- [2026 LetsVPN翻墙指南：安全上网新选择 - 2026年最全使用教程](docs/the-2026-letsvpn-climbing-guide-a-new-choice-for-safe-surfing-the-most-complete-2026-tutorial.md)
+
 - [快连VPN下载2026新版：3分钟极速安装指南 (2026最新下载地址)](docs/connect-to-vpn-to-download-2026-new-version-3-minute-fast-installation-guide-2026-latest-download-ad.md)
 
 - [快连VPN永久免费2026使用指南：安全上网必备 - 100%解决连接问题](docs/connected-vpn-lifetime-free-2026-usage-guide-safe-internet-essentials-100-resolve-connection-issues.md)
@@ -27,12 +29,12 @@
 
 - [letsvpn官方下载2026最新版：安全上网指南 - 2026年最全使用教程](docs/letsvpn-official-download-the-latest-version-of-2026-a-guide-to-safe-internet-access-the-most-compre.md)
 
-- [快连VPN 2026最新版：稳定翻墙与隐私保护指南 | 稳定不掉线指南](docs/connected-vpn-2026-latest-version-stability-and-privacy-guidelines-stability-and-stability-guideline.md)
-
 
 ## 文档导航
 
 ### 指南
+
+- [2026 LetsVPN翻墙指南：安全上网新选择 - 2026年最全使用教程](docs/the-2026-letsvpn-climbing-guide-a-new-choice-for-safe-surfing-the-most-complete-2026-tutorial.md)
 
 - [快连VPN下载2026新版：3分钟极速安装指南 (2026最新下载地址)](docs/connect-to-vpn-to-download-2026-new-version-3-minute-fast-installation-guide-2026-latest-download-ad.md)
 
