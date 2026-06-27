@@ -5,6 +5,8 @@
 ## 最新文章
 
 
+- [快连VPN官网地址2026最新指南 (附2026最新邀请码)](docs/connect-to-vpn-official-website-address-2026-latest-guidelines-with-2026-latest-invitation-code.md)
+
 - [快连VPN邀请码2026最新获取指南 (附2026最新邀请码)](docs/connect-to-vpn-code-2026-latest-get-guide-with-2026-latest-invite-code.md)
 
 - [kuailian download 2026最新版下载教程 | 稳定不掉线指南](docs/kuailian-download-2026-latest-version-download-tutorial-stabilization-guide.md)
@@ -12,13 +14,13 @@
 - [快连VPN 2026指南：极速安全上网的必备神器 (2026最新下载地址)](docs/quick-connect-vpn-2026-guide-the-essential-tool-for-safe-and-fast-internet-access-2026-latest-downlo.md)
 
 - [LetsVPN破解版2026：最新安全使用指南 - 2026年最全使用教程](docs/letsvpn-crack-2026-the-latest-safety-instructions-the-most-complete-2026-tutorial.md)
-
-- [快连VPN下载2026最新版：一键安装指南 [2026官方版]](docs/connected-vpn-download-2026-latest-version-one-click-installation-guide-2026-official-version.md)
 
 
 ## 热门内容
 
 
+- [快连VPN官网地址2026最新指南 (附2026最新邀请码)](docs/connect-to-vpn-official-website-address-2026-latest-guidelines-with-2026-latest-invitation-code.md)
+
 - [快连VPN邀请码2026最新获取指南 (附2026最新邀请码)](docs/connect-to-vpn-code-2026-latest-get-guide-with-2026-latest-invite-code.md)
 
 - [kuailian download 2026最新版下载教程 | 稳定不掉线指南](docs/kuailian-download-2026-latest-version-download-tutorial-stabilization-guide.md)
@@ -27,12 +29,12 @@
 
 - [LetsVPN破解版2026：最新安全使用指南 - 2026年最全使用教程](docs/letsvpn-crack-2026-the-latest-safety-instructions-the-most-complete-2026-tutorial.md)
 
-- [快连VPN下载2026最新版：一键安装指南 [2026官方版]](docs/connected-vpn-download-2026-latest-version-one-click-installation-guide-2026-official-version.md)
-
 
 ## 文档导航
 
 ### 指南
+
+- [快连VPN官网地址2026最新指南 (附2026最新邀请码)](docs/connect-to-vpn-official-website-address-2026-latest-guidelines-with-2026-latest-invitation-code.md)
 
 - [快连VPN邀请码2026最新获取指南 (附2026最新邀请码)](docs/connect-to-vpn-code-2026-latest-get-guide-with-2026-latest-invite-code.md)
 
