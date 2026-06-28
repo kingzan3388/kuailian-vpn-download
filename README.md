@@ -5,6 +5,8 @@
 ## 最新文章
 
 
+- [快连官网下载2026：最新版安装指南 - 100%解决连接问题](docs/quicklink-2026-the-latest-version-of-the-installation-guide-100-resolve-connection-issues.md)
+
 - [快连VPN 2026新版使用指南：3分钟学会正确连接 - 2026年最全使用教程](docs/connected-vpn-2026-new-user-guide-3-minutes-to-learn-to-connect-correctly-the-most-complete-tutorial.md)
 
 - [2026年LetsVPN使用指南：安全上网新选择 (附2026最新邀请码)](docs/letsvpn-2026-user-guide-a-new-choice-for-safe-surfing-with-2026-latest-invitation-code.md)
@@ -12,13 +14,13 @@
 - [letsvpn 2026 最新使用指南：安全上网完整教程 [100%可用]](docs/letsvpn-2026-latest-usage-guide-safe-online-full-tutorial-100-available.md)
 
 - [letsvpn 2026 最新指南：安全提速与隐私保护全攻略【限时免费】](docs/the-latest-guide-to-letsvpn-2026-a-complete-guide-to-speeding-up-security-and-privacy-protection-fre.md)
-
-- [2026 LetsVPN使用指南：安全上网与高速连接教程 (2026最新下载地址)](docs/2026-letsvpn-user-guide-secure-internet-and-high-speed-connection-tutorial-2026-latest-download-addr.md)
 
 
 ## 热门内容
 
 
+- [快连官网下载2026：最新版安装指南 - 100%解决连接问题](docs/quicklink-2026-the-latest-version-of-the-installation-guide-100-resolve-connection-issues.md)
+
 - [快连VPN 2026新版使用指南：3分钟学会正确连接 - 2026年最全使用教程](docs/connected-vpn-2026-new-user-guide-3-minutes-to-learn-to-connect-correctly-the-most-complete-tutorial.md)
 
 - [2026年LetsVPN使用指南：安全上网新选择 (附2026最新邀请码)](docs/letsvpn-2026-user-guide-a-new-choice-for-safe-surfing-with-2026-latest-invitation-code.md)
@@ -27,12 +29,12 @@
 
 - [letsvpn 2026 最新指南：安全提速与隐私保护全攻略【限时免费】](docs/the-latest-guide-to-letsvpn-2026-a-complete-guide-to-speeding-up-security-and-privacy-protection-fre.md)
 
-- [2026 LetsVPN使用指南：安全上网与高速连接教程 (2026最新下载地址)](docs/2026-letsvpn-user-guide-secure-internet-and-high-speed-connection-tutorial-2026-latest-download-addr.md)
-
 
 ## 文档导航
 
 ### 指南
+
+- [快连官网下载2026：最新版安装指南 - 100%解决连接问题](docs/quicklink-2026-the-latest-version-of-the-installation-guide-100-resolve-connection-issues.md)
 
 - [快连VPN 2026新版使用指南：3分钟学会正确连接 - 2026年最全使用教程](docs/connected-vpn-2026-new-user-guide-3-minutes-to-learn-to-connect-correctly-the-most-complete-tutorial.md)
 
