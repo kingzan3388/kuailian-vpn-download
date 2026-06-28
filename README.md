@@ -5,6 +5,8 @@
 ## 最新文章
 
 
+- [2026年LetsVPN使用指南：安全上网新选择 (附2026最新邀请码)](docs/letsvpn-2026-user-guide-a-new-choice-for-safe-surfing-with-2026-latest-invitation-code.md)
+
 - [letsvpn 2026 最新使用指南：安全上网完整教程 [100%可用]](docs/letsvpn-2026-latest-usage-guide-safe-online-full-tutorial-100-available.md)
 
 - [letsvpn 2026 最新指南：安全提速与隐私保护全攻略【限时免费】](docs/the-latest-guide-to-letsvpn-2026-a-complete-guide-to-speeding-up-security-and-privacy-protection-fre.md)
@@ -12,13 +14,13 @@
 - [2026 LetsVPN使用指南：安全上网与高速连接教程 (2026最新下载地址)](docs/2026-letsvpn-user-guide-secure-internet-and-high-speed-connection-tutorial-2026-latest-download-addr.md)
 
 - [快连VPN苹果下载2026最新指南：安全高速上网 [2026官方版]](docs/connecting-to-vpn-apple-downloads-2026-latest-guide-secure-high-speed-internet-access-2026-official-.md)
-
-- [LetsVPN官网2026最新指南：安全高速访问全球网络 [100%可用]](docs/letsvpn-official-website-2026-latest-guide-secure-high-speed-access-to-the-global-network-100-availa.md)
 
 
 ## 热门内容
 
 
+- [2026年LetsVPN使用指南：安全上网新选择 (附2026最新邀请码)](docs/letsvpn-2026-user-guide-a-new-choice-for-safe-surfing-with-2026-latest-invitation-code.md)
+
 - [letsvpn 2026 最新使用指南：安全上网完整教程 [100%可用]](docs/letsvpn-2026-latest-usage-guide-safe-online-full-tutorial-100-available.md)
 
 - [letsvpn 2026 最新指南：安全提速与隐私保护全攻略【限时免费】](docs/the-latest-guide-to-letsvpn-2026-a-complete-guide-to-speeding-up-security-and-privacy-protection-fre.md)
@@ -27,12 +29,12 @@
 
 - [快连VPN苹果下载2026最新指南：安全高速上网 [2026官方版]](docs/connecting-to-vpn-apple-downloads-2026-latest-guide-secure-high-speed-internet-access-2026-official-.md)
 
-- [LetsVPN官网2026最新指南：安全高速访问全球网络 [100%可用]](docs/letsvpn-official-website-2026-latest-guide-secure-high-speed-access-to-the-global-network-100-availa.md)
-
 
 ## 文档导航
 
 ### 指南
+
+- [2026年LetsVPN使用指南：安全上网新选择 (附2026最新邀请码)](docs/letsvpn-2026-user-guide-a-new-choice-for-safe-surfing-with-2026-latest-invitation-code.md)
 
 - [letsvpn 2026 最新使用指南：安全上网完整教程 [100%可用]](docs/letsvpn-2026-latest-usage-guide-safe-online-full-tutorial-100-available.md)
 
