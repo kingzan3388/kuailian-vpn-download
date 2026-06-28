@@ -5,6 +5,8 @@
 ## 最新文章
 
 
+- [快连VPN官网地址2026最新版：安全上网指南 - 2026年最全使用教程](docs/connect-to-vpn-official-website-2026-latest-version-safe-internet-guide-the-most-complete-tutorial-i.md)
+
 - [快连VPN 2026新版使用指南：3分钟极速上手教程 - 100%解决连接问题](docs/connected-vpn-2026-new-user-guide-3-minute-ultimate-getting-started-100-troubleshoot-connection-issu.md)
 
 - [快连加速器2026使用教程：一键解锁全球网络 - 2026年最全使用教程](docs/fast-link-accelerator-2026-tutorial-unlocking-the-global-network-with-one-click-the-most-complete-tu.md)
@@ -12,13 +14,13 @@
 - [2026年Kuailian VPN使用指南：安全上网与隐私保护全攻略 (2026最新下载地址)](docs/kuailian-vpn-user-guide-2026-a-complete-guide-to-safe-surfing-and-privacy-2026-latest-download-addre.md)
 
 - [快连VPN 2026使用指南：安全上网最佳选择 (2026最新下载地址)](docs/connected-vpn-2026-user-guide-best-choice-for-safe-surfing-2026-latest-download-address.md)
-
-- [快连VPN官网地址2026最新指南 (附2026最新邀请码)](docs/connect-to-vpn-official-website-address-2026-latest-guidelines-with-2026-latest-invitation-code.md)
 
 
 ## 热门内容
 
 
+- [快连VPN官网地址2026最新版：安全上网指南 - 2026年最全使用教程](docs/connect-to-vpn-official-website-2026-latest-version-safe-internet-guide-the-most-complete-tutorial-i.md)
+
 - [快连VPN 2026新版使用指南：3分钟极速上手教程 - 100%解决连接问题](docs/connected-vpn-2026-new-user-guide-3-minute-ultimate-getting-started-100-troubleshoot-connection-issu.md)
 
 - [快连加速器2026使用教程：一键解锁全球网络 - 2026年最全使用教程](docs/fast-link-accelerator-2026-tutorial-unlocking-the-global-network-with-one-click-the-most-complete-tu.md)
@@ -27,12 +29,12 @@
 
 - [快连VPN 2026使用指南：安全上网最佳选择 (2026最新下载地址)](docs/connected-vpn-2026-user-guide-best-choice-for-safe-surfing-2026-latest-download-address.md)
 
-- [快连VPN官网地址2026最新指南 (附2026最新邀请码)](docs/connect-to-vpn-official-website-address-2026-latest-guidelines-with-2026-latest-invitation-code.md)
-
 
 ## 文档导航
 
 ### 指南
+
+- [快连VPN官网地址2026最新版：安全上网指南 - 2026年最全使用教程](docs/connect-to-vpn-official-website-2026-latest-version-safe-internet-guide-the-most-complete-tutorial-i.md)
 
 - [快连VPN 2026新版使用指南：3分钟极速上手教程 - 100%解决连接问题](docs/connected-vpn-2026-new-user-guide-3-minute-ultimate-getting-started-100-troubleshoot-connection-issu.md)
 
