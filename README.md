@@ -5,6 +5,8 @@
 ## 最新文章
 
 
+- [快连加速器官网2026最新使用指南 [2026官方版]](docs/quicklink-acceleration-organ-website-2026-latest-user-guide-2026-official-version.md)
+
 - [快连VPN登录2026指南：3步搞定安全连接 [100%可用]](docs/quick-connect-vpn-login-2026-guide-3-steps-to-secure-connection-100-available.md)
 
 - [快连VPN苹果下载2026最新安装指南 - 100%解决连接问题](docs/connectivity-vpn-apple-download-2026-latest-installation-guide-100-resolve-connection-issues.md)
@@ -12,13 +14,13 @@
 - [快连VPN注册2026最新教程：3分钟搞定安全上网 (2026最新下载地址)](docs/connect-to-vpn-sign-up-2026-latest-tutorial-get-safe-online-in-3-minutes-2026-latest-download-addres.md)
 
 - [快连VPN 2026最新版下载与使用指南 [100%可用]](docs/connected-vpn-2026-latest-version-download-and-usage-guide-100-available.md)
-
-- [快连加速器安卓2026使用指南：安全高速上网新体验 | 稳定不掉线指南](docs/accelerator-android-2026-user-guide-new-safe-and-high-speed-internet-experience-stable-and-stable-on.md)
 
 
 ## 热门内容
 
 
+- [快连加速器官网2026最新使用指南 [2026官方版]](docs/quicklink-acceleration-organ-website-2026-latest-user-guide-2026-official-version.md)
+
 - [快连VPN登录2026指南：3步搞定安全连接 [100%可用]](docs/quick-connect-vpn-login-2026-guide-3-steps-to-secure-connection-100-available.md)
 
 - [快连VPN苹果下载2026最新安装指南 - 100%解决连接问题](docs/connectivity-vpn-apple-download-2026-latest-installation-guide-100-resolve-connection-issues.md)
@@ -27,12 +29,12 @@
 
 - [快连VPN 2026最新版下载与使用指南 [100%可用]](docs/connected-vpn-2026-latest-version-download-and-usage-guide-100-available.md)
 
-- [快连加速器安卓2026使用指南：安全高速上网新体验 | 稳定不掉线指南](docs/accelerator-android-2026-user-guide-new-safe-and-high-speed-internet-experience-stable-and-stable-on.md)
-
 
 ## 文档导航
 
 ### 指南
+
+- [快连加速器官网2026最新使用指南 [2026官方版]](docs/quicklink-acceleration-organ-website-2026-latest-user-guide-2026-official-version.md)
 
 - [快连VPN登录2026指南：3步搞定安全连接 [100%可用]](docs/quick-connect-vpn-login-2026-guide-3-steps-to-secure-connection-100-available.md)
 
