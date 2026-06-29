@@ -5,6 +5,8 @@
 ## 最新文章
 
 
+- [快连官网2026最新版下载与使用指南【限时免费】](docs/quick-link-official-website-2026-latest-version-download-and-use-guide-free-for-a-limited-time.md)
+
 - [快连官网2026使用指南：最新安全连接教程 [2026官方版]](docs/quick-links-2026-user-guide-the-latest-secure-connections-tutorial-2026-official-version.md)
 
 - [letsvpn下载2026指南：安全上网的必备工具 | 稳定不掉线指南](docs/letsvpn-download-the-2026-guide-a-must-have-tool-for-safe-surfing-the-guide-to-staying-connected.md)
@@ -12,13 +14,13 @@
 - [2026年最新指南：LetsVPN翻墙教程与安全上网技巧【限时免费】](docs/new-guide-for-2026-letsvpn-wall-climbing-tutorial-and-safe-internet-tips-free-for-a-limited-time.md)
 
 - [快连加速器官网2026最新使用指南 [2026官方版]](docs/quicklink-acceleration-organ-website-2026-latest-user-guide-2026-official-version.md)
-
-- [快连VPN登录2026指南：3步搞定安全连接 [100%可用]](docs/quick-connect-vpn-login-2026-guide-3-steps-to-secure-connection-100-available.md)
 
 
 ## 热门内容
 
 
+- [快连官网2026最新版下载与使用指南【限时免费】](docs/quick-link-official-website-2026-latest-version-download-and-use-guide-free-for-a-limited-time.md)
+
 - [快连官网2026使用指南：最新安全连接教程 [2026官方版]](docs/quick-links-2026-user-guide-the-latest-secure-connections-tutorial-2026-official-version.md)
 
 - [letsvpn下载2026指南：安全上网的必备工具 | 稳定不掉线指南](docs/letsvpn-download-the-2026-guide-a-must-have-tool-for-safe-surfing-the-guide-to-staying-connected.md)
@@ -27,12 +29,12 @@
 
 - [快连加速器官网2026最新使用指南 [2026官方版]](docs/quicklink-acceleration-organ-website-2026-latest-user-guide-2026-official-version.md)
 
-- [快连VPN登录2026指南：3步搞定安全连接 [100%可用]](docs/quick-connect-vpn-login-2026-guide-3-steps-to-secure-connection-100-available.md)
-
 
 ## 文档导航
 
 ### 指南
+
+- [快连官网2026最新版下载与使用指南【限时免费】](docs/quick-link-official-website-2026-latest-version-download-and-use-guide-free-for-a-limited-time.md)
 
 - [快连官网2026使用指南：最新安全连接教程 [2026官方版]](docs/quick-links-2026-user-guide-the-latest-secure-connections-tutorial-2026-official-version.md)
 
@@ -697,6 +699,8 @@
 
 
 ### 下载
+
+- [快连官网2026最新版下载与使用指南【限时免费】](docs/quick-link-official-website-2026-latest-version-download-and-use-guide-free-for-a-limited-time.md)
 
 - [letsvpn下载2026指南：安全上网的必备工具 | 稳定不掉线指南](docs/letsvpn-download-the-2026-guide-a-must-have-tool-for-safe-surfing-the-guide-to-staying-connected.md)
 
