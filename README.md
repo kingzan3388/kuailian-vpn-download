@@ -5,6 +5,8 @@
 ## 最新文章
 
 
+- [letsvpn官方下载2026最新版：安全上网指南 [2026官方版]](docs/letsvpn-official-download-2026-latest-version-guide-to-safe-surfing-2026-official-version.md)
+
 - [快连VPN注册2026指南：3分钟安全上网新体验【限时免费】](docs/connect-to-vpn-sign-up-2026-guide-3-minute-safe-new-online-experience-free-for-a-limited-time.md)
 
 - [快连VPN iOS下载2026：最新稳定版安装指南 (附2026最新邀请码)](docs/connected-vpn-ios-download-2026-latest-stable-installation-guide-with-2026-latest-invitation-code.md)
@@ -12,13 +14,13 @@
 - [快连官网2026最新版下载与使用指南【限时免费】](docs/quick-link-official-website-2026-latest-version-download-and-use-guide-free-for-a-limited-time.md)
 
 - [快连官网2026使用指南：最新安全连接教程 [2026官方版]](docs/quick-links-2026-user-guide-the-latest-secure-connections-tutorial-2026-official-version.md)
-
-- [letsvpn下载2026指南：安全上网的必备工具 | 稳定不掉线指南](docs/letsvpn-download-the-2026-guide-a-must-have-tool-for-safe-surfing-the-guide-to-staying-connected.md)
 
 
 ## 热门内容
 
 
+- [letsvpn官方下载2026最新版：安全上网指南 [2026官方版]](docs/letsvpn-official-download-2026-latest-version-guide-to-safe-surfing-2026-official-version.md)
+
 - [快连VPN注册2026指南：3分钟安全上网新体验【限时免费】](docs/connect-to-vpn-sign-up-2026-guide-3-minute-safe-new-online-experience-free-for-a-limited-time.md)
 
 - [快连VPN iOS下载2026：最新稳定版安装指南 (附2026最新邀请码)](docs/connected-vpn-ios-download-2026-latest-stable-installation-guide-with-2026-latest-invitation-code.md)
@@ -27,12 +29,12 @@
 
 - [快连官网2026使用指南：最新安全连接教程 [2026官方版]](docs/quick-links-2026-user-guide-the-latest-secure-connections-tutorial-2026-official-version.md)
 
-- [letsvpn下载2026指南：安全上网的必备工具 | 稳定不掉线指南](docs/letsvpn-download-the-2026-guide-a-must-have-tool-for-safe-surfing-the-guide-to-staying-connected.md)
-
 
 ## 文档导航
 
 ### 指南
+
+- [letsvpn官方下载2026最新版：安全上网指南 [2026官方版]](docs/letsvpn-official-download-2026-latest-version-guide-to-safe-surfing-2026-official-version.md)
 
 - [快连VPN注册2026指南：3分钟安全上网新体验【限时免费】](docs/connect-to-vpn-sign-up-2026-guide-3-minute-safe-new-online-experience-free-for-a-limited-time.md)
 
@@ -703,6 +705,8 @@
 
 
 ### 下载
+
+- [letsvpn官方下载2026最新版：安全上网指南 [2026官方版]](docs/letsvpn-official-download-2026-latest-version-guide-to-safe-surfing-2026-official-version.md)
 
 - [快连VPN iOS下载2026：最新稳定版安装指南 (附2026最新邀请码)](docs/connected-vpn-ios-download-2026-latest-stable-installation-guide-with-2026-latest-invitation-code.md)
 
