@@ -5,6 +5,8 @@
 ## 最新文章
 
 
+- [2026 LetsVPN电脑版最新安装教程：极速突破网络限制 [100%可用]](docs/latest-2026-letsvpn-for-desktop-installation-tutorial-breaking-through-network-limits-100-available.md)
+
 - [快连VPN 2026最新版：一键畅游全球网络的终极指南 [2026官方版]](docs/connect-to-vpn-2026-latest-version-the-ultimate-guide-to-navigating-the-world-with-one-click-2026-of.md)
 
 - [2026年Kuailian新手指南：高效挖矿与收益最大化教程 [100%可用]](docs/kuailian-starter-guide-2026-efficient-mining-and-maximizing-revenue-tutorial-100-available.md)
@@ -12,13 +14,13 @@
 - [快连加速器2026最新版：一键解锁流畅上网指南 - 2026年最全使用教程](docs/quicklink-accelerator-2026-latest-version-a-one-click-guide-to-unlocking-smooth-internet-access-the-.md)
 
 - [LetsVPN破解版2026：永久免费高速节点教程 [100%可用]](docs/letsvpn-crack-2026-lifetime-free-high-speed-node-tutorial-100-available.md)
-
-- [快连VPN邀请码2026：最新免费获取指南 (附2026最新邀请码)](docs/connectivity-vpn-invitation-code-2026-the-latest-free-getting-guide-with-2026-latest-invitation-code.md)
 
 
 ## 热门内容
 
 
+- [2026 LetsVPN电脑版最新安装教程：极速突破网络限制 [100%可用]](docs/latest-2026-letsvpn-for-desktop-installation-tutorial-breaking-through-network-limits-100-available.md)
+
 - [快连VPN 2026最新版：一键畅游全球网络的终极指南 [2026官方版]](docs/connect-to-vpn-2026-latest-version-the-ultimate-guide-to-navigating-the-world-with-one-click-2026-of.md)
 
 - [2026年Kuailian新手指南：高效挖矿与收益最大化教程 [100%可用]](docs/kuailian-starter-guide-2026-efficient-mining-and-maximizing-revenue-tutorial-100-available.md)
@@ -27,12 +29,12 @@
 
 - [LetsVPN破解版2026：永久免费高速节点教程 [100%可用]](docs/letsvpn-crack-2026-lifetime-free-high-speed-node-tutorial-100-available.md)
 
-- [快连VPN邀请码2026：最新免费获取指南 (附2026最新邀请码)](docs/connectivity-vpn-invitation-code-2026-the-latest-free-getting-guide-with-2026-latest-invitation-code.md)
-
 
 ## 文档导航
 
 ### 指南
+
+- [2026 LetsVPN电脑版最新安装教程：极速突破网络限制 [100%可用]](docs/latest-2026-letsvpn-for-desktop-installation-tutorial-breaking-through-network-limits-100-available.md)
 
 - [快连VPN 2026最新版：一键畅游全球网络的终极指南 [2026官方版]](docs/connect-to-vpn-2026-latest-version-the-ultimate-guide-to-navigating-the-world-with-one-click-2026-of.md)
 
