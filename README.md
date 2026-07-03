@@ -5,6 +5,8 @@
 ## 最新文章
 
 
+- [快连VPN优惠码2026最新指南：免费高速获取教程 - 100%解决连接问题](docs/connected-vpn-coupon-code-2026-latest-guide-free-high-speed-getting-tutorial-100-troubleshooting-con.md)
+
 - [2026 LetsVPN电脑版最新安装教程：极速突破网络限制 [100%可用]](docs/latest-2026-letsvpn-for-desktop-installation-tutorial-breaking-through-network-limits-100-available.md)
 
 - [快连VPN 2026最新版：一键畅游全球网络的终极指南 [2026官方版]](docs/connect-to-vpn-2026-latest-version-the-ultimate-guide-to-navigating-the-world-with-one-click-2026-of.md)
@@ -12,13 +14,13 @@
 - [2026年Kuailian新手指南：高效挖矿与收益最大化教程 [100%可用]](docs/kuailian-starter-guide-2026-efficient-mining-and-maximizing-revenue-tutorial-100-available.md)
 
 - [快连加速器2026最新版：一键解锁流畅上网指南 - 2026年最全使用教程](docs/quicklink-accelerator-2026-latest-version-a-one-click-guide-to-unlocking-smooth-internet-access-the-.md)
-
-- [LetsVPN破解版2026：永久免费高速节点教程 [100%可用]](docs/letsvpn-crack-2026-lifetime-free-high-speed-node-tutorial-100-available.md)
 
 
 ## 热门内容
 
 
+- [快连VPN优惠码2026最新指南：免费高速获取教程 - 100%解决连接问题](docs/connected-vpn-coupon-code-2026-latest-guide-free-high-speed-getting-tutorial-100-troubleshooting-con.md)
+
 - [2026 LetsVPN电脑版最新安装教程：极速突破网络限制 [100%可用]](docs/latest-2026-letsvpn-for-desktop-installation-tutorial-breaking-through-network-limits-100-available.md)
 
 - [快连VPN 2026最新版：一键畅游全球网络的终极指南 [2026官方版]](docs/connect-to-vpn-2026-latest-version-the-ultimate-guide-to-navigating-the-world-with-one-click-2026-of.md)
@@ -27,12 +29,12 @@
 
 - [快连加速器2026最新版：一键解锁流畅上网指南 - 2026年最全使用教程](docs/quicklink-accelerator-2026-latest-version-a-one-click-guide-to-unlocking-smooth-internet-access-the-.md)
 
-- [LetsVPN破解版2026：永久免费高速节点教程 [100%可用]](docs/letsvpn-crack-2026-lifetime-free-high-speed-node-tutorial-100-available.md)
-
 
 ## 文档导航
 
 ### 指南
+
+- [快连VPN优惠码2026最新指南：免费高速获取教程 - 100%解决连接问题](docs/connected-vpn-coupon-code-2026-latest-guide-free-high-speed-getting-tutorial-100-troubleshooting-con.md)
 
 - [2026 LetsVPN电脑版最新安装教程：极速突破网络限制 [100%可用]](docs/latest-2026-letsvpn-for-desktop-installation-tutorial-breaking-through-network-limits-100-available.md)
 
