@@ -5,6 +5,8 @@
 ## 最新文章
 
 
+- [快连加速器2026最新使用教程：一键极速游戏教程 - 100%解决连接问题](docs/quick-connect-accelerator-2026-latest-usage-tutorial-one-click-fast-game-tutorial-100-troubleshootin.md)
+
 - [快连VPN官方下载2026：最新安全指南 (附2026最新邀请码)](docs/connected-vpn-official-download-2026-the-latest-security-guidelines-with-2026-latest-invitation-code.md)
 
 - [letsvpn下载2026最新版：安全上网完整指南 - 2026年最全使用教程](docs/letsvpn-download-the-latest-version-of-2026-the-complete-guide-to-safe-surfing-the-most-complete-tut.md)
@@ -12,13 +14,13 @@
 - [2026快连使用教程：一键访问全球网络的最佳指南 | 稳定不掉线指南](docs/2026-connectivity-tutorial-the-best-guide-to-one-click-access-to-a-global-network-stable-no-drop-gui.md)
 
 - [快连VPN最新版下载2026：安全上网必备指南 (附2026最新邀请码)](docs/connected-vpn-latest-version-download-2026-a-must-have-guide-to-surfing-safely-with-2026-latest-invi.md)
-
-- [快连VPN安卓下载2026新版：一键解锁高速安全上网指南 | 稳定不掉线指南](docs/connected-vpn-for-android-2026-a-one-click-guide-to-unlocking-high-speed-and-secure-internet-access-.md)
 
 
 ## 热门内容
 
 
+- [快连加速器2026最新使用教程：一键极速游戏教程 - 100%解决连接问题](docs/quick-connect-accelerator-2026-latest-usage-tutorial-one-click-fast-game-tutorial-100-troubleshootin.md)
+
 - [快连VPN官方下载2026：最新安全指南 (附2026最新邀请码)](docs/connected-vpn-official-download-2026-the-latest-security-guidelines-with-2026-latest-invitation-code.md)
 
 - [letsvpn下载2026最新版：安全上网完整指南 - 2026年最全使用教程](docs/letsvpn-download-the-latest-version-of-2026-the-complete-guide-to-safe-surfing-the-most-complete-tut.md)
@@ -27,12 +29,12 @@
 
 - [快连VPN最新版下载2026：安全上网必备指南 (附2026最新邀请码)](docs/connected-vpn-latest-version-download-2026-a-must-have-guide-to-surfing-safely-with-2026-latest-invi.md)
 
-- [快连VPN安卓下载2026新版：一键解锁高速安全上网指南 | 稳定不掉线指南](docs/connected-vpn-for-android-2026-a-one-click-guide-to-unlocking-high-speed-and-secure-internet-access-.md)
-
 
 ## 文档导航
 
 ### 指南
+
+- [快连加速器2026最新使用教程：一键极速游戏教程 - 100%解决连接问题](docs/quick-connect-accelerator-2026-latest-usage-tutorial-one-click-fast-game-tutorial-100-troubleshootin.md)
 
 - [快连VPN官方下载2026：最新安全指南 (附2026最新邀请码)](docs/connected-vpn-official-download-2026-the-latest-security-guidelines-with-2026-latest-invitation-code.md)
 
