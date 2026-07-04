@@ -5,6 +5,8 @@
 ## 最新文章
 
 
+- [快连VPN电脑版2026最新教程：安全加速与配置指南 | 稳定不掉线指南](docs/connect-to-vpn-for-desktop-2026-latest-tutorial-security-acceleration-and-configuration-guide-stabil.md)
+
 - [快连VPN免费版2026最新教程：安全上网必备指南 [100%可用]](docs/connect-to-vpn-free-2026-latest-tutorial-a-must-have-guide-to-safe-surfing-100-available.md)
 
 - [快连加速器下载2026：最新版安装与使用指南 - 2026年最全使用教程](docs/quicklink-accelerator-download-2026-the-latest-installation-and-usage-guide-the-most-complete-2026-t.md)
@@ -12,13 +14,13 @@
 - [快连VPN苹果下载2026指南：一键安装与安全上网教程 - 2026年最全使用教程](docs/connected-vpn-2026-guide-one-click-installation-and-safe-internet-tutorial-the-most-complete-tutoria.md)
 
 - [LetsVPN官网2026最新指南：安全访问与高速代理设置教程 (附2026最新邀请码)](docs/letsvpn-official-website-2026-latest-guide-secure-access-and-high-speed-proxy-setup-tutorial-with-20.md)
-
-- [2026 LetsVPN翻墙指南：安全上网必备教程 (2026最新下载地址)](docs/2026-letsvpn-wall-climbing-guide-a-must-have-tutorial-for-safe-surfing-2026-latest-download-url.md)
 
 
 ## 热门内容
 
 
+- [快连VPN电脑版2026最新教程：安全加速与配置指南 | 稳定不掉线指南](docs/connect-to-vpn-for-desktop-2026-latest-tutorial-security-acceleration-and-configuration-guide-stabil.md)
+
 - [快连VPN免费版2026最新教程：安全上网必备指南 [100%可用]](docs/connect-to-vpn-free-2026-latest-tutorial-a-must-have-guide-to-safe-surfing-100-available.md)
 
 - [快连加速器下载2026：最新版安装与使用指南 - 2026年最全使用教程](docs/quicklink-accelerator-download-2026-the-latest-installation-and-usage-guide-the-most-complete-2026-t.md)
@@ -27,12 +29,12 @@
 
 - [LetsVPN官网2026最新指南：安全访问与高速代理设置教程 (附2026最新邀请码)](docs/letsvpn-official-website-2026-latest-guide-secure-access-and-high-speed-proxy-setup-tutorial-with-20.md)
 
-- [2026 LetsVPN翻墙指南：安全上网必备教程 (2026最新下载地址)](docs/2026-letsvpn-wall-climbing-guide-a-must-have-tutorial-for-safe-surfing-2026-latest-download-url.md)
-
 
 ## 文档导航
 
 ### 指南
+
+- [快连VPN电脑版2026最新教程：安全加速与配置指南 | 稳定不掉线指南](docs/connect-to-vpn-for-desktop-2026-latest-tutorial-security-acceleration-and-configuration-guide-stabil.md)
 
 - [快连VPN免费版2026最新教程：安全上网必备指南 [100%可用]](docs/connect-to-vpn-free-2026-latest-tutorial-a-must-have-guide-to-safe-surfing-100-available.md)
 
