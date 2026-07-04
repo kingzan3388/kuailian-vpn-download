@@ -5,6 +5,8 @@
 ## 最新文章
 
 
+- [LetsVPN官网2026最新指南：安全访问与高速代理设置教程 (附2026最新邀请码)](docs/letsvpn-official-website-2026-latest-guide-secure-access-and-high-speed-proxy-setup-tutorial-with-20.md)
+
 - [2026 LetsVPN翻墙指南：安全上网必备教程 (2026最新下载地址)](docs/2026-letsvpn-wall-climbing-guide-a-must-have-tutorial-for-safe-surfing-2026-latest-download-url.md)
 
 - [快连VPN苹果下载2026教程：3分钟安全上网指南 (2026最新下载地址)](docs/connected-vpn-2026-tutorial-3-minute-guide-to-secure-internet-latest-2026-download-address.md)
@@ -12,13 +14,13 @@
 - [快连VPN优惠码2026：最新省钱指南与独家福利 [100%可用]](docs/connected-vpn-coupon-code-2026-latest-savings-guide-exclusive-benefits-100-available.md)
 
 - [快连VPN iOS下载2026最新版：一键安装指南【限时免费】](docs/connect-to-vpn-ios-download-2026-latest-version-one-click-installation-guide-free-for-a-limited-time.md)
-
-- [快连加速器下载2026：一键解锁高速网络新体验 [100%可用]](docs/quicklink-accelerator-download-2026-unlock-a-new-high-speed-internet-experience-with-one-click-100-a.md)
 
 
 ## 热门内容
 
 
+- [LetsVPN官网2026最新指南：安全访问与高速代理设置教程 (附2026最新邀请码)](docs/letsvpn-official-website-2026-latest-guide-secure-access-and-high-speed-proxy-setup-tutorial-with-20.md)
+
 - [2026 LetsVPN翻墙指南：安全上网必备教程 (2026最新下载地址)](docs/2026-letsvpn-wall-climbing-guide-a-must-have-tutorial-for-safe-surfing-2026-latest-download-url.md)
 
 - [快连VPN苹果下载2026教程：3分钟安全上网指南 (2026最新下载地址)](docs/connected-vpn-2026-tutorial-3-minute-guide-to-secure-internet-latest-2026-download-address.md)
@@ -27,12 +29,12 @@
 
 - [快连VPN iOS下载2026最新版：一键安装指南【限时免费】](docs/connect-to-vpn-ios-download-2026-latest-version-one-click-installation-guide-free-for-a-limited-time.md)
 
-- [快连加速器下载2026：一键解锁高速网络新体验 [100%可用]](docs/quicklink-accelerator-download-2026-unlock-a-new-high-speed-internet-experience-with-one-click-100-a.md)
-
 
 ## 文档导航
 
 ### 指南
+
+- [LetsVPN官网2026最新指南：安全访问与高速代理设置教程 (附2026最新邀请码)](docs/letsvpn-official-website-2026-latest-guide-secure-access-and-high-speed-proxy-setup-tutorial-with-20.md)
 
 - [2026 LetsVPN翻墙指南：安全上网必备教程 (2026最新下载地址)](docs/2026-letsvpn-wall-climbing-guide-a-must-have-tutorial-for-safe-surfing-2026-latest-download-url.md)
 
