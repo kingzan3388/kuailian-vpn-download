@@ -5,6 +5,8 @@
 ## 最新文章
 
 
+- [快连加速器2026使用教程：一键解锁高速网络 - 2026年最全使用教程](docs/accelerator-2026-tutorial-unlocking-high-speed-networks-with-one-click-top-2026-tutorials.md)
+
 - [快连VPN注册指南：2026最新免费账号获取教程 | 稳定不掉线指南](docs/connect-to-vpn-signup-guide-2026-latest-free-account-getting-tutorial-stability-tips.md)
 
 - [快连vpn永久免费2026最新使用指南 - 2026年最全使用教程](docs/connect-to-vpn-lifetime-free-2026-latest-user-guide-top-full-use-tutorials-for-2026.md)
@@ -12,13 +14,13 @@
 - [快连加速器安卓2026新版下载指南：高速稳定一键畅联 (附2026最新邀请码)](docs/quicklink-accelerator-android-2026-new-version-download-guide-high-speed-and-stable-one-click-unlimi.md)
 
 - [快连官网下载2026：安全高速连接指南 | 稳定不掉线指南](docs/quicklink-2026-a-guide-to-secure-high-speed-connections-a-guide-to-staying-stable.md)
-
-- [快连VPN iOS下载2026指南：3分钟安全畅游全球网络 (附2026最新邀请码)](docs/connected-vpn-ios-download-2026-guide-3-minutes-safely-surfing-the-world-with-2026-latest-invitation.md)
 
 
 ## 热门内容
 
 
+- [快连加速器2026使用教程：一键解锁高速网络 - 2026年最全使用教程](docs/accelerator-2026-tutorial-unlocking-high-speed-networks-with-one-click-top-2026-tutorials.md)
+
 - [快连VPN注册指南：2026最新免费账号获取教程 | 稳定不掉线指南](docs/connect-to-vpn-signup-guide-2026-latest-free-account-getting-tutorial-stability-tips.md)
 
 - [快连vpn永久免费2026最新使用指南 - 2026年最全使用教程](docs/connect-to-vpn-lifetime-free-2026-latest-user-guide-top-full-use-tutorials-for-2026.md)
@@ -27,12 +29,12 @@
 
 - [快连官网下载2026：安全高速连接指南 | 稳定不掉线指南](docs/quicklink-2026-a-guide-to-secure-high-speed-connections-a-guide-to-staying-stable.md)
 
-- [快连VPN iOS下载2026指南：3分钟安全畅游全球网络 (附2026最新邀请码)](docs/connected-vpn-ios-download-2026-guide-3-minutes-safely-surfing-the-world-with-2026-latest-invitation.md)
-
 
 ## 文档导航
 
 ### 指南
+
+- [快连加速器2026使用教程：一键解锁高速网络 - 2026年最全使用教程](docs/accelerator-2026-tutorial-unlocking-high-speed-networks-with-one-click-top-2026-tutorials.md)
 
 - [快连VPN注册指南：2026最新免费账号获取教程 | 稳定不掉线指南](docs/connect-to-vpn-signup-guide-2026-latest-free-account-getting-tutorial-stability-tips.md)
 
