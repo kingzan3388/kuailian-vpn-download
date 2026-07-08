@@ -5,6 +5,8 @@
 ## 最新文章
 
 
+- [kuailian 2026最新使用指南：零基础高效上手指南 [100%可用]](docs/kuailian-2026-latest-usage-guide-zero-base-efficient-getting-started-guide-100-available.md)
+
 - [2026快连VPN邀请码获取指南：免费试用与永久福利 - 100%解决连接问题](docs/2026-quick-connect-vpn-invitation-code-getting-guide-free-trial-permanent-benefits-100-resolve-conne.md)
 
 - [kuailian 2026 新手入门教程：一图看懂核心功能 - 100%解决连接问题](docs/getting-started-with-kuailian-2026-a-picture-of-understanding-core-functions-100-resolving-connectiv.md)
@@ -12,13 +14,13 @@
 - [快连vpn官网地址2026最新指南：安全访问与下载教程 (2026最新下载地址)](docs/the-latest-guide-to-2026-secure-access-and-download-tutorial-2026-latest-download-url.md)
 
 - [快连VPN官网入口2026最新版：一键安全连接指南【限时免费】](docs/the-latest-version-of-the-official-vpn-portal-2026-one-click-security-connection-guide-free-for-a-li.md)
-
-- [LetsVPN 2026 完整指南：解锁高速安全上网新体验 (附2026最新邀请码)](docs/letsvpn-2026-complete-guide-unlock-a-new-high-speed-and-secure-internet-experience-with-the-latest-2.md)
 
 
 ## 热门内容
 
 
+- [kuailian 2026最新使用指南：零基础高效上手指南 [100%可用]](docs/kuailian-2026-latest-usage-guide-zero-base-efficient-getting-started-guide-100-available.md)
+
 - [2026快连VPN邀请码获取指南：免费试用与永久福利 - 100%解决连接问题](docs/2026-quick-connect-vpn-invitation-code-getting-guide-free-trial-permanent-benefits-100-resolve-conne.md)
 
 - [kuailian 2026 新手入门教程：一图看懂核心功能 - 100%解决连接问题](docs/getting-started-with-kuailian-2026-a-picture-of-understanding-core-functions-100-resolving-connectiv.md)
@@ -27,12 +29,12 @@
 
 - [快连VPN官网入口2026最新版：一键安全连接指南【限时免费】](docs/the-latest-version-of-the-official-vpn-portal-2026-one-click-security-connection-guide-free-for-a-li.md)
 
-- [LetsVPN 2026 完整指南：解锁高速安全上网新体验 (附2026最新邀请码)](docs/letsvpn-2026-complete-guide-unlock-a-new-high-speed-and-secure-internet-experience-with-the-latest-2.md)
-
 
 ## 文档导航
 
 ### 指南
+
+- [kuailian 2026最新使用指南：零基础高效上手指南 [100%可用]](docs/kuailian-2026-latest-usage-guide-zero-base-efficient-getting-started-guide-100-available.md)
 
 - [2026快连VPN邀请码获取指南：免费试用与永久福利 - 100%解决连接问题](docs/2026-quick-connect-vpn-invitation-code-getting-guide-free-trial-permanent-benefits-100-resolve-conne.md)
 
