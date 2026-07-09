@@ -5,6 +5,8 @@
 ## 最新文章
 
 
+- [2026年LetsVPN最新使用指南：解锁高速科学上网 (附2026最新邀请码)](docs/letsvpn-2026-latest-usage-guide-unlock-high-speed-scientific-internet-with-2026-latest-invitation-co.md)
+
 - [LetsVPN官网2026最新指南：安全上网与高速访问全教程【限时免费】](docs/letsvpn-official-website-2026-latest-guide-safe-internet-and-high-speed-access-full-tutorial-free-fo.md)
 
 - [快连加速器PC版2026使用指南：极速稳定新体验 - 100%解决连接问题](docs/quicklink-accelerator-2026-for-pc-user-guide-fast-and-stable-new-experience-100-resolve-connectivity.md)
@@ -12,13 +14,13 @@
 - [快连VPN官网入口2026最新指南：安全极速上网【限时免费】](docs/the-latest-guide-to-connecting-to-the-official-vpn-portal-2026-safe-and-fast-internet-access-free-fo.md)
 
 - [kuailian download 2026 最新版下载指南【限时免费】](docs/kuailian-download-2026-latest-version-download-guide-free-for-a-limited-time.md)
-
-- [快连VPN最新版下载2026：安全上网完整指南 - 2026年最全使用教程](docs/connect-to-vpn-latest-version-download-2026-a-complete-guide-to-safe-surfing-the-most-complete-tutor.md)
 
 
 ## 热门内容
 
 
+- [2026年LetsVPN最新使用指南：解锁高速科学上网 (附2026最新邀请码)](docs/letsvpn-2026-latest-usage-guide-unlock-high-speed-scientific-internet-with-2026-latest-invitation-co.md)
+
 - [LetsVPN官网2026最新指南：安全上网与高速访问全教程【限时免费】](docs/letsvpn-official-website-2026-latest-guide-safe-internet-and-high-speed-access-full-tutorial-free-fo.md)
 
 - [快连加速器PC版2026使用指南：极速稳定新体验 - 100%解决连接问题](docs/quicklink-accelerator-2026-for-pc-user-guide-fast-and-stable-new-experience-100-resolve-connectivity.md)
@@ -27,12 +29,12 @@
 
 - [kuailian download 2026 最新版下载指南【限时免费】](docs/kuailian-download-2026-latest-version-download-guide-free-for-a-limited-time.md)
 
-- [快连VPN最新版下载2026：安全上网完整指南 - 2026年最全使用教程](docs/connect-to-vpn-latest-version-download-2026-a-complete-guide-to-safe-surfing-the-most-complete-tutor.md)
-
 
 ## 文档导航
 
 ### 指南
+
+- [2026年LetsVPN最新使用指南：解锁高速科学上网 (附2026最新邀请码)](docs/letsvpn-2026-latest-usage-guide-unlock-high-speed-scientific-internet-with-2026-latest-invitation-co.md)
 
 - [LetsVPN官网2026最新指南：安全上网与高速访问全教程【限时免费】](docs/letsvpn-official-website-2026-latest-guide-safe-internet-and-high-speed-access-full-tutorial-free-fo.md)
 
