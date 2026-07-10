@@ -5,6 +5,8 @@
 ## 最新文章
 
 
+- [快连VPN电脑版2026最新安装与使用指南 - 100%解决连接问题](docs/quick-connect-vpn-desktop-2026-latest-installation-and-usage-guide-100-resolve-connection-issues.md)
+
 - [2026年最新Kuailian VPN使用指南：安全上网与解锁限制 | 稳定不掉线指南](docs/the-latest-kuailian-vpn-user-guide-for-2026-safe-surfing-and-unlocking-restrictions-stable-and-stabl.md)
 
 - [快连VPN电脑版2026最新安装指南：安全加速一步到位 | 稳定不掉线指南](docs/the-latest-installation-guide-for-connected-vpn-desktop-2026-secure-acceleration-in-one-step-stable-.md)
@@ -12,13 +14,13 @@
 - [快连VPN 2026最新版：一键解锁高速访问指南 [2026官方版]](docs/connect-to-vpn-2026-latest-version-a-one-click-guide-to-unlocking-high-speed-access-2026-official-ve.md)
 
 - [2026年LetsVPN最新使用指南：解锁高速科学上网 (附2026最新邀请码)](docs/letsvpn-2026-latest-usage-guide-unlock-high-speed-scientific-internet-with-2026-latest-invitation-co.md)
-
-- [LetsVPN官网2026最新指南：安全上网与高速访问全教程【限时免费】](docs/letsvpn-official-website-2026-latest-guide-safe-internet-and-high-speed-access-full-tutorial-free-fo.md)
 
 
 ## 热门内容
 
 
+- [快连VPN电脑版2026最新安装与使用指南 - 100%解决连接问题](docs/quick-connect-vpn-desktop-2026-latest-installation-and-usage-guide-100-resolve-connection-issues.md)
+
 - [2026年最新Kuailian VPN使用指南：安全上网与解锁限制 | 稳定不掉线指南](docs/the-latest-kuailian-vpn-user-guide-for-2026-safe-surfing-and-unlocking-restrictions-stable-and-stabl.md)
 
 - [快连VPN电脑版2026最新安装指南：安全加速一步到位 | 稳定不掉线指南](docs/the-latest-installation-guide-for-connected-vpn-desktop-2026-secure-acceleration-in-one-step-stable-.md)
@@ -27,12 +29,12 @@
 
 - [2026年LetsVPN最新使用指南：解锁高速科学上网 (附2026最新邀请码)](docs/letsvpn-2026-latest-usage-guide-unlock-high-speed-scientific-internet-with-2026-latest-invitation-co.md)
 
-- [LetsVPN官网2026最新指南：安全上网与高速访问全教程【限时免费】](docs/letsvpn-official-website-2026-latest-guide-safe-internet-and-high-speed-access-full-tutorial-free-fo.md)
-
 
 ## 文档导航
 
 ### 指南
+
+- [快连VPN电脑版2026最新安装与使用指南 - 100%解决连接问题](docs/quick-connect-vpn-desktop-2026-latest-installation-and-usage-guide-100-resolve-connection-issues.md)
 
 - [2026年最新Kuailian VPN使用指南：安全上网与解锁限制 | 稳定不掉线指南](docs/the-latest-kuailian-vpn-user-guide-for-2026-safe-surfing-and-unlocking-restrictions-stable-and-stabl.md)
 
