@@ -5,6 +5,8 @@
 ## 最新文章
 
 
+- [快连VPN官网入口2026最新版：一键安全上网指南【限时免费】](docs/the-latest-version-of-the-official-vpn-portal-2026-one-click-safe-internet-access-guide-free-for-a-l.md)
+
 - [2026快连VPN邀请码获取指南：稳定高速上网新选择 - 2026年最全使用教程](docs/guide-to-getting-a-2026-vpn-invitation-code-a-new-option-for-stable-high-speed-internet-access-the-m.md)
 
 - [快连加速器破解版2026最新教程：安全免费上网指南 (附2026最新邀请码)](docs/quick-connect-accelerator-crack-edition-2026-latest-tutorial-a-guide-to-secure-free-internet-with-20.md)
@@ -12,13 +14,13 @@
 - [快连VPN电脑版2026最新安装与使用指南 - 100%解决连接问题](docs/quick-connect-vpn-desktop-2026-latest-installation-and-usage-guide-100-resolve-connection-issues.md)
 
 - [2026年最新Kuailian VPN使用指南：安全上网与解锁限制 | 稳定不掉线指南](docs/the-latest-kuailian-vpn-user-guide-for-2026-safe-surfing-and-unlocking-restrictions-stable-and-stabl.md)
-
-- [快连VPN电脑版2026最新安装指南：安全加速一步到位 | 稳定不掉线指南](docs/the-latest-installation-guide-for-connected-vpn-desktop-2026-secure-acceleration-in-one-step-stable-.md)
 
 
 ## 热门内容
 
 
+- [快连VPN官网入口2026最新版：一键安全上网指南【限时免费】](docs/the-latest-version-of-the-official-vpn-portal-2026-one-click-safe-internet-access-guide-free-for-a-l.md)
+
 - [2026快连VPN邀请码获取指南：稳定高速上网新选择 - 2026年最全使用教程](docs/guide-to-getting-a-2026-vpn-invitation-code-a-new-option-for-stable-high-speed-internet-access-the-m.md)
 
 - [快连加速器破解版2026最新教程：安全免费上网指南 (附2026最新邀请码)](docs/quick-connect-accelerator-crack-edition-2026-latest-tutorial-a-guide-to-secure-free-internet-with-20.md)
@@ -27,12 +29,12 @@
 
 - [2026年最新Kuailian VPN使用指南：安全上网与解锁限制 | 稳定不掉线指南](docs/the-latest-kuailian-vpn-user-guide-for-2026-safe-surfing-and-unlocking-restrictions-stable-and-stabl.md)
 
-- [快连VPN电脑版2026最新安装指南：安全加速一步到位 | 稳定不掉线指南](docs/the-latest-installation-guide-for-connected-vpn-desktop-2026-secure-acceleration-in-one-step-stable-.md)
-
 
 ## 文档导航
 
 ### 指南
+
+- [快连VPN官网入口2026最新版：一键安全上网指南【限时免费】](docs/the-latest-version-of-the-official-vpn-portal-2026-one-click-safe-internet-access-guide-free-for-a-l.md)
 
 - [2026快连VPN邀请码获取指南：稳定高速上网新选择 - 2026年最全使用教程](docs/guide-to-getting-a-2026-vpn-invitation-code-a-new-option-for-stable-high-speed-internet-access-the-m.md)
 
