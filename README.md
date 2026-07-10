@@ -5,6 +5,8 @@
 ## 最新文章
 
 
+- [快连VPN永久免费2026最新指南：安全畅游无限制 [100%可用]](docs/connected-vpn-lifetime-free-2026-latest-guide-unlimited-safe-hangouts-100-available.md)
+
 - [快连VPN下载2026最新版 | 一键安全上网指南 [100%可用]](docs/connected-vpn-download-2026-latest-version-one-click-safe-internet-guide-100-available.md)
 
 - [快连VPN免费版2026指南：安全上网新选择 [100%可用]](docs/connectivity-vpn-free-2026-guide-new-safe-internet-options-100-available.md)
@@ -12,13 +14,13 @@
 - [快连加速器PC版2026：超流畅游戏加速指南【限时免费】](docs/fast-link-accelerator-2026-for-pc-a-guide-to-super-smooth-game-acceleration-free-for-a-limited-time.md)
 
 - [快连VPN官网入口2026最新版：一键安全上网指南【限时免费】](docs/the-latest-version-of-the-official-vpn-portal-2026-one-click-safe-internet-access-guide-free-for-a-l.md)
-
-- [2026快连VPN邀请码获取指南：稳定高速上网新选择 - 2026年最全使用教程](docs/guide-to-getting-a-2026-vpn-invitation-code-a-new-option-for-stable-high-speed-internet-access-the-m.md)
 
 
 ## 热门内容
 
 
+- [快连VPN永久免费2026最新指南：安全畅游无限制 [100%可用]](docs/connected-vpn-lifetime-free-2026-latest-guide-unlimited-safe-hangouts-100-available.md)
+
 - [快连VPN下载2026最新版 | 一键安全上网指南 [100%可用]](docs/connected-vpn-download-2026-latest-version-one-click-safe-internet-guide-100-available.md)
 
 - [快连VPN免费版2026指南：安全上网新选择 [100%可用]](docs/connectivity-vpn-free-2026-guide-new-safe-internet-options-100-available.md)
@@ -27,12 +29,12 @@
 
 - [快连VPN官网入口2026最新版：一键安全上网指南【限时免费】](docs/the-latest-version-of-the-official-vpn-portal-2026-one-click-safe-internet-access-guide-free-for-a-l.md)
 
-- [2026快连VPN邀请码获取指南：稳定高速上网新选择 - 2026年最全使用教程](docs/guide-to-getting-a-2026-vpn-invitation-code-a-new-option-for-stable-high-speed-internet-access-the-m.md)
-
 
 ## 文档导航
 
 ### 指南
+
+- [快连VPN永久免费2026最新指南：安全畅游无限制 [100%可用]](docs/connected-vpn-lifetime-free-2026-latest-guide-unlimited-safe-hangouts-100-available.md)
 
 - [快连VPN下载2026最新版 | 一键安全上网指南 [100%可用]](docs/connected-vpn-download-2026-latest-version-one-click-safe-internet-guide-100-available.md)
 
