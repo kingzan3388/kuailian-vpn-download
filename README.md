@@ -5,6 +5,8 @@
 ## 最新文章
 
 
+- [letsvpn官方下载2026新版：安全高速翻墙指南 | 稳定不掉线指南](docs/letsvpn-official-download-2026-new-edition-safe-high-speed-wall-climbing-guide-stabilization-guide.md)
+
 - [快连2026最新教程：3分钟极速解锁全球网络 (附2026最新邀请码)](docs/connect-to-2026-latest-tutorial-unlock-the-global-network-in-3-minutes-with-2026-latest-invitation-c.md)
 
 - [2026快连VPN安全吗？真实使用指南与风险解析 - 2026年最全使用教程](docs/2026-is-it-safe-to-connect-to-a-vpn-real-world-guides-and-risk-insights-the-most-fully-used-tutorial.md)
@@ -12,13 +14,13 @@
 - [快连2026新手教程：3分钟极速突破网络限制 | 稳定不掉线指南](docs/connected-2026-beginners-tutorial-3-minute-fast-breakthrough-stable-stay-connected-guide.md)
 
 - [快连VPN永久免费2026最新指南：安全畅游无限制 [100%可用]](docs/connected-vpn-lifetime-free-2026-latest-guide-unlimited-safe-hangouts-100-available.md)
-
-- [快连VPN下载2026最新版 | 一键安全上网指南 [100%可用]](docs/connected-vpn-download-2026-latest-version-one-click-safe-internet-guide-100-available.md)
 
 
 ## 热门内容
 
 
+- [letsvpn官方下载2026新版：安全高速翻墙指南 | 稳定不掉线指南](docs/letsvpn-official-download-2026-new-edition-safe-high-speed-wall-climbing-guide-stabilization-guide.md)
+
 - [快连2026最新教程：3分钟极速解锁全球网络 (附2026最新邀请码)](docs/connect-to-2026-latest-tutorial-unlock-the-global-network-in-3-minutes-with-2026-latest-invitation-c.md)
 
 - [2026快连VPN安全吗？真实使用指南与风险解析 - 2026年最全使用教程](docs/2026-is-it-safe-to-connect-to-a-vpn-real-world-guides-and-risk-insights-the-most-fully-used-tutorial.md)
@@ -27,12 +29,12 @@
 
 - [快连VPN永久免费2026最新指南：安全畅游无限制 [100%可用]](docs/connected-vpn-lifetime-free-2026-latest-guide-unlimited-safe-hangouts-100-available.md)
 
-- [快连VPN下载2026最新版 | 一键安全上网指南 [100%可用]](docs/connected-vpn-download-2026-latest-version-one-click-safe-internet-guide-100-available.md)
-
 
 ## 文档导航
 
 ### 指南
+
+- [letsvpn官方下载2026新版：安全高速翻墙指南 | 稳定不掉线指南](docs/letsvpn-official-download-2026-new-edition-safe-high-speed-wall-climbing-guide-stabilization-guide.md)
 
 - [快连2026最新教程：3分钟极速解锁全球网络 (附2026最新邀请码)](docs/connect-to-2026-latest-tutorial-unlock-the-global-network-in-3-minutes-with-2026-latest-invitation-c.md)
 
@@ -939,6 +941,8 @@
 
 
 ### 下载
+
+- [letsvpn官方下载2026新版：安全高速翻墙指南 | 稳定不掉线指南](docs/letsvpn-official-download-2026-new-edition-safe-high-speed-wall-climbing-guide-stabilization-guide.md)
 
 - [快连VPN下载2026最新版 | 一键安全上网指南 [100%可用]](docs/connected-vpn-download-2026-latest-version-one-click-safe-internet-guide-100-available.md)
 
