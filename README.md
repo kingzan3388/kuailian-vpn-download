@@ -5,6 +5,8 @@
 ## 最新文章
 
 
+- [快连VPN优惠码2026：免费试用与最新折扣指南【限时免费】](docs/connected-vpn-coupon-code-2026-free-trial-latest-discount-guide-free-for-a-limited-time.md)
+
 - [2026 kuailian 最新指南：从零到精通的高效教程 - 2026年最全使用教程](docs/2026-kuailian-latest-guide-effective-tutorial-from-scratch-to-mastery-the-most-fully-used-tutorial-i.md)
 
 - [letsvpn下载2026最新版：安全翻墙指南 [2026官方版]](docs/letsvpn-download-the-latest-edition-of-2026-a-guide-to-safe-wall-climbing-2026-official-edition.md)
@@ -12,13 +14,13 @@
 - [快连VPN安卓下载2026指南：高速稳定畅游全球【限时免费】](docs/connect-to-vpn-android-download-2026-guide-high-speed-and-stable-travel-around-the-world-free-for-a-.md)
 
 - [LetsVPN破解版2026：安全免费上网的终极指南 (2026最新下载地址)](docs/letsvpn-crack-2026-the-ultimate-guide-to-secure-free-internet-2026-latest-download-address.md)
-
-- [快连VPN永久免费2026指南：安全上网必备神器 [100%可用]](docs/connected-vpn-lifetime-free-2026-guide-must-have-artifacts-for-safe-surfing-100-available.md)
 
 
 ## 热门内容
 
 
+- [快连VPN优惠码2026：免费试用与最新折扣指南【限时免费】](docs/connected-vpn-coupon-code-2026-free-trial-latest-discount-guide-free-for-a-limited-time.md)
+
 - [2026 kuailian 最新指南：从零到精通的高效教程 - 2026年最全使用教程](docs/2026-kuailian-latest-guide-effective-tutorial-from-scratch-to-mastery-the-most-fully-used-tutorial-i.md)
 
 - [letsvpn下载2026最新版：安全翻墙指南 [2026官方版]](docs/letsvpn-download-the-latest-edition-of-2026-a-guide-to-safe-wall-climbing-2026-official-edition.md)
@@ -27,12 +29,12 @@
 
 - [LetsVPN破解版2026：安全免费上网的终极指南 (2026最新下载地址)](docs/letsvpn-crack-2026-the-ultimate-guide-to-secure-free-internet-2026-latest-download-address.md)
 
-- [快连VPN永久免费2026指南：安全上网必备神器 [100%可用]](docs/connected-vpn-lifetime-free-2026-guide-must-have-artifacts-for-safe-surfing-100-available.md)
-
 
 ## 文档导航
 
 ### 指南
+
+- [快连VPN优惠码2026：免费试用与最新折扣指南【限时免费】](docs/connected-vpn-coupon-code-2026-free-trial-latest-discount-guide-free-for-a-limited-time.md)
 
 - [2026 kuailian 最新指南：从零到精通的高效教程 - 2026年最全使用教程](docs/2026-kuailian-latest-guide-effective-tutorial-from-scratch-to-mastery-the-most-fully-used-tutorial-i.md)
 
