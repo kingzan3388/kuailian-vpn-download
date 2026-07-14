@@ -5,6 +5,8 @@
 ## 最新文章
 
 
+- [快连2026新手教程：3分钟学会稳定科学上网 [2026官方版]](docs/quick-connect-2026-starter-tutorial-3-minutes-to-learn-stable-science-online-2026-official-version.md)
+
 - [快连VPN 2026最新邀请码获取指南 (附2026最新邀请码)](docs/connected-vpn-2026-latest-invitation-code-getting-guide-with-2026-latest-invitation-code.md)
 
 - [快连VPN 2026最新评测：安全性与速度实测指南 (附2026最新邀请码)](docs/connectivity-vpn-2026-latest-review-a-guide-to-testing-security-and-speed-with-2026-latest-invitatio.md)
@@ -12,13 +14,13 @@
 - [快连VPN iOS下载2026最新版安装教程 [100%可用]](docs/connected-vpn-ios-download-2026-latest-installation-tutorial-100-available.md)
 
 - [LetsVPN 2026 最新使用指南：快速连接与安全设置教程 (2026最新下载地址)](docs/letsvpn-2026-latest-usage-guide-quick-connect-and-security-setup-tutorial-2026-latest-download-addre.md)
-
-- [kuailian download 2026最新版：安全下载与安装全指南 - 100%解决连接问题](docs/kuailian-download-2026-latest-version-full-guide-to-secure-downloads-and-installations-100-resolves-.md)
 
 
 ## 热门内容
 
 
+- [快连2026新手教程：3分钟学会稳定科学上网 [2026官方版]](docs/quick-connect-2026-starter-tutorial-3-minutes-to-learn-stable-science-online-2026-official-version.md)
+
 - [快连VPN 2026最新邀请码获取指南 (附2026最新邀请码)](docs/connected-vpn-2026-latest-invitation-code-getting-guide-with-2026-latest-invitation-code.md)
 
 - [快连VPN 2026最新评测：安全性与速度实测指南 (附2026最新邀请码)](docs/connectivity-vpn-2026-latest-review-a-guide-to-testing-security-and-speed-with-2026-latest-invitatio.md)
@@ -27,12 +29,12 @@
 
 - [LetsVPN 2026 最新使用指南：快速连接与安全设置教程 (2026最新下载地址)](docs/letsvpn-2026-latest-usage-guide-quick-connect-and-security-setup-tutorial-2026-latest-download-addre.md)
 
-- [kuailian download 2026最新版：安全下载与安装全指南 - 100%解决连接问题](docs/kuailian-download-2026-latest-version-full-guide-to-secure-downloads-and-installations-100-resolves-.md)
-
 
 ## 文档导航
 
 ### 指南
+
+- [快连2026新手教程：3分钟学会稳定科学上网 [2026官方版]](docs/quick-connect-2026-starter-tutorial-3-minutes-to-learn-stable-science-online-2026-official-version.md)
 
 - [快连VPN 2026最新邀请码获取指南 (附2026最新邀请码)](docs/connected-vpn-2026-latest-invitation-code-getting-guide-with-2026-latest-invitation-code.md)
 
