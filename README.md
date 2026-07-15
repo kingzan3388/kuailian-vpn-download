@@ -5,6 +5,8 @@
 ## 最新文章
 
 
+- [快连加速器PC版2026最新教程：稳定连接与高速体验【限时免费】](docs/fast-connect-accelerator-2026-for-pc-latest-tutorial-stable-connection-and-high-speed-experience-fre.md)
+
 - [快连VPN官网入口2026最新指南：安全访问与使用教程 - 2026年最全使用教程](docs/the-latest-guide-to-connecting-vpn-portals-2026-tutorials-for-secure-access-and-use-the-most-complet.md)
 
 - [2026年 LetsVPN 使用教程：安全上网完整指南 [2026官方版]](docs/letsvpn-2026-tutorial-a-complete-guide-to-safe-surfing-official-2026.md)
@@ -12,13 +14,13 @@
 - [快连VPN电脑版2026教程：一键解锁高速安全上网 - 2026年最全使用教程](docs/connect-to-vpn-for-desktop-2026-tutorial-unlock-high-speed-secure-internet-with-one-click-the-most-c.md)
 
 - [快连VPN官方下载2026版：一键畅连全球极速指南 - 2026年最全使用教程](docs/connect-vpn-official-download-2026-a-one-click-guide-to-global-speed-the-most-complete-tutorial-in-2.md)
-
-- [快连2026新手教程：3分钟学会稳定科学上网 [2026官方版]](docs/quick-connect-2026-starter-tutorial-3-minutes-to-learn-stable-science-online-2026-official-version.md)
 
 
 ## 热门内容
 
 
+- [快连加速器PC版2026最新教程：稳定连接与高速体验【限时免费】](docs/fast-connect-accelerator-2026-for-pc-latest-tutorial-stable-connection-and-high-speed-experience-fre.md)
+
 - [快连VPN官网入口2026最新指南：安全访问与使用教程 - 2026年最全使用教程](docs/the-latest-guide-to-connecting-vpn-portals-2026-tutorials-for-secure-access-and-use-the-most-complet.md)
 
 - [2026年 LetsVPN 使用教程：安全上网完整指南 [2026官方版]](docs/letsvpn-2026-tutorial-a-complete-guide-to-safe-surfing-official-2026.md)
@@ -27,12 +29,12 @@
 
 - [快连VPN官方下载2026版：一键畅连全球极速指南 - 2026年最全使用教程](docs/connect-vpn-official-download-2026-a-one-click-guide-to-global-speed-the-most-complete-tutorial-in-2.md)
 
-- [快连2026新手教程：3分钟学会稳定科学上网 [2026官方版]](docs/quick-connect-2026-starter-tutorial-3-minutes-to-learn-stable-science-online-2026-official-version.md)
-
 
 ## 文档导航
 
 ### 指南
+
+- [快连加速器PC版2026最新教程：稳定连接与高速体验【限时免费】](docs/fast-connect-accelerator-2026-for-pc-latest-tutorial-stable-connection-and-high-speed-experience-fre.md)
 
 - [快连VPN官网入口2026最新指南：安全访问与使用教程 - 2026年最全使用教程](docs/the-latest-guide-to-connecting-vpn-portals-2026-tutorials-for-secure-access-and-use-the-most-complet.md)
 
