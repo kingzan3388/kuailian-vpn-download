@@ -5,6 +5,8 @@
 ## 最新文章
 
 
+- [快连加速器官网2026最新版：安全高速上网指南 [2026官方版]](docs/quicklink-accelerator-2026-latest-version-a-guide-to-safe-and-high-speed-internet-access-2026-offici.md)
+
 - [LetsVPN电脑版2026使用指南：高速安全访问全球网络 (附2026最新邀请码)](docs/letsvpn-desktop-2026-user-guide-high-speed-secure-access-to-global-networks-with-2026-latest-invitat.md)
 
 - [快连VPN免费版2026使用指南：安全上网新体验【限时免费】](docs/connected-vpn-free-2026-user-guide-new-safe-online-experiences-free-for-a-limited-time.md)
@@ -12,13 +14,13 @@
 - [快连加速器PC版2026使用指南：稳定连接与高效加速技巧 [2026官方版]](docs/quick-connect-accelerator-2026-for-pc-user-guide-stable-connectivity-and-high-efficiency-acceleratio.md)
 
 - [快连VPN 2026最新邀请码获取指南：免费高速代理 (附2026最新邀请码)](docs/quick-connect-vpn-2026-latest-invitation-code-getting-guide-free-high-speed-proxy-with-2026-latest-i.md)
-
-- [letsvpn下载2026最新版安装教程 - 2026年最全使用教程](docs/letsvpn-download-the-latest-2026-installation-tutorial-the-most-used-tutorial-in-2026.md)
 
 
 ## 热门内容
 
 
+- [快连加速器官网2026最新版：安全高速上网指南 [2026官方版]](docs/quicklink-accelerator-2026-latest-version-a-guide-to-safe-and-high-speed-internet-access-2026-offici.md)
+
 - [LetsVPN电脑版2026使用指南：高速安全访问全球网络 (附2026最新邀请码)](docs/letsvpn-desktop-2026-user-guide-high-speed-secure-access-to-global-networks-with-2026-latest-invitat.md)
 
 - [快连VPN免费版2026使用指南：安全上网新体验【限时免费】](docs/connected-vpn-free-2026-user-guide-new-safe-online-experiences-free-for-a-limited-time.md)
@@ -27,12 +29,12 @@
 
 - [快连VPN 2026最新邀请码获取指南：免费高速代理 (附2026最新邀请码)](docs/quick-connect-vpn-2026-latest-invitation-code-getting-guide-free-high-speed-proxy-with-2026-latest-i.md)
 
-- [letsvpn下载2026最新版安装教程 - 2026年最全使用教程](docs/letsvpn-download-the-latest-2026-installation-tutorial-the-most-used-tutorial-in-2026.md)
-
 
 ## 文档导航
 
 ### 指南
+
+- [快连加速器官网2026最新版：安全高速上网指南 [2026官方版]](docs/quicklink-accelerator-2026-latest-version-a-guide-to-safe-and-high-speed-internet-access-2026-offici.md)
 
 - [LetsVPN电脑版2026使用指南：高速安全访问全球网络 (附2026最新邀请码)](docs/letsvpn-desktop-2026-user-guide-high-speed-secure-access-to-global-networks-with-2026-latest-invitat.md)
 
