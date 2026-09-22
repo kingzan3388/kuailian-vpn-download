@@ -1468,6 +1468,7 @@
 
 - [快连VPN下载2026：最新高速翻墙指南 - 2026年最全使用教程](docs/connected-vpn-download-2026-the-latest-high-speed-wall-climbing-guide-the-most-complete-tutorial-in-.md)
 
+[快连官网](https://www.kuailianoc.com)
 
 ---
 
