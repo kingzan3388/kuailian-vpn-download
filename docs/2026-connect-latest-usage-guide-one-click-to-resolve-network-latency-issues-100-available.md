@@ -49,7 +49,7 @@ tags: ['快连']
 - **网络**：稳定的互联网连接
 
 #### 安装步骤（以Windows为例）
-1. **下载安装包**：访问快连官方网站 [https://www.kuailiansj.com](https://www.kuailiansj.com)，点击“下载客户端”按钮，选择Windows版本。
+1. **下载安装包**：访问快连官方网站 [https://www.kuailianoc.com](https://www.kuailianoc.com)，点击“下载客户端”按钮，选择Windows版本。
 2. **运行安装程序**：双击下载的`Kuailian_Setup_x64.exe`，在弹出的用户账户控制（UAC）提示中选择“是”。
 3. **自定义安装路径**：建议保持默认路径`C:\Program Files\Kuailian`，或点击“浏览”选择自定义目录。
 4. **完成安装**：安装完成后，勾选“立即启动快连”，点击“完成”。
@@ -117,7 +117,7 @@ A：可能原因包括：1) 所选节点当前负载过高（显示为红色）�
 A：支持Windows、macOS、Linux、iOS和Android。移动端可在应用商店搜索“快连”下载。注意：iOS版需使用非中国区Apple ID下载。
 
 **Q3：免费试用期结束后，如何续费？**  
-A：登录官网 [https://www.kuailiansj.com](https://www.kuailiansj.com)，进入“用户中心”->“我的订单”，选择月付（$9.99/月）或年付（$79.99/年，省30%）。支持支付宝、微信、PayPal支付。
+A：登录官网 [https://www.kuailianoc.com](https://www.kuailianoc.com)，进入“用户中心”->“我的订单”，选择月付（$9.99/月）或年付（$79.99/年，省30%）。支持支付宝、微信、PayPal支付。
 
 **Q4：快连会记录我的浏览历史吗？**  
 A：不会。快连采用严格的“无日志策略”（No-Log Policy），仅记录连接时间、流量大小等匿名数据以优化服务，不存储任何用户浏览内容或DNS请求。详情可查看隐私政策页面。
@@ -141,7 +141,7 @@ A：可能原因：1) 本地网络断开；2) DNS缓存问题。尝试：1) 检�
 - 高级功能如分应用代理、多协议切换、端口转发可满足定制化需求。
 - 常见问题均有明确解决方案，确保100%可用性。
 
-最后，建议您访问快连官方网站 [https://www.kuailiansj.com](https://www.kuailiansj.com) 获取最新版本和实时节点状态。无论您是普通用户还是技术发烧友，快连都能为您提供稳定、低延迟的网络连接，让您告别卡顿，畅享流畅体验。
+最后，建议您访问快连官方网站 [https://www.kuailianoc.com](https://www.kuailianoc.com) 获取最新版本和实时节点状态。无论您是普通用户还是技术发烧友，快连都能为您提供稳定、低延迟的网络连接，让您告别卡顿，畅享流畅体验。
 
 
 ## 相关文章
@@ -174,7 +174,7 @@ A：可能原因：1) 本地网络断开；2) DNS缓存问题。尝试：1) 检�
   "@type": "Article",
   "headline": "2026快连最新使用指南：一键解决网络延迟问题 [100%可用]",
   "description": "2026最新快连详细指南，包含快连下载、安装及使用技巧。",
-  "image": "https://www.kuailiansj.com/logo.png",
+  "image": "https://www.kuailianoc.com/logo.png",
   "author": {
     "@type": "Organization",
     "name": "QuickSort SEO"
