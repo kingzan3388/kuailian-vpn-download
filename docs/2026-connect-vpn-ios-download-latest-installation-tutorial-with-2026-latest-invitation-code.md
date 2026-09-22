@@ -58,7 +58,7 @@ tags: ['快连vpn iOS下载']
 由于苹果App Store的地区限制，直接搜索“快连VPN”可能无法找到官方应用。推荐使用以下两种方法：
 
 1. **通过官网下载（推荐）**：
-   - 打开Safari浏览器，访问快连VPN官方网站：`https://www.kuailiansj.com`
+   - 打开Safari浏览器，访问快连VPN官方网站：`https://www.kuailianoc.com`
    - 在官网首页找到“iOS下载”按钮，点击后系统会自动跳转到App Store的下载页面（如果已上架）或提供TestFlight链接（用于测试版）。
    - 如果跳转失败，请尝试使用非中国区Apple ID登录App Store，然后搜索“快连VPN”。
 
@@ -168,7 +168,7 @@ tags: ['快连vpn iOS下载']
 
 随着网络环境的不断变化，快连VPN也在持续更新其客户端和服务器。建议用户定期访问官方网站，获取最新版本和活动信息。希望本文能帮助你顺利解决网络访问问题，保护个人隐私，畅享无界互联网。
 
-**官网地址：** [https://www.kuailiansj.com](https://www.kuailiansj.com)
+**官网地址：** [https://www.kuailianoc.com](https://www.kuailianoc.com)
 
 **2026最新邀请码（示例）：** `KL2026VIP`（请以官网实际提供为准，注意时效性）
 
@@ -188,7 +188,7 @@ tags: ['快连vpn iOS下载']
 
 ---
 
-**官网地址：** [https://www.letsklvpn.cn/main](https://www.letsklvpn.cn/main)
+**官网地址：** [https://www.kuailianoc.cn](https://www.kuailianoc.cn)
 
 
 
